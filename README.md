@@ -570,6 +570,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Darkladylexy and her team - for creating this incredible guide and allowing me to create this fork.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- Xanza specifically, helping me setup the list, double checking and asking Lexy for permission. 
 
 ## Contact
 
