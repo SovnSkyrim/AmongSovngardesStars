@@ -165,6 +165,10 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
+## Switching Weather Mods (or Profiles)
+
+To switch the Weather mod simply look at the drop menu on top of the right panel and next to "Profile" in MO2, you should be able to select the profile with the weather mod of your choice. http://prntscr.com/tmu8ar http://prntscr.com/tmu8ar
+
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
