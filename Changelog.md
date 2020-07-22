@@ -51,7 +51,7 @@ This is the initial release of Sovn's LOTD Based on Lexy's LOTD `14.6.2020` upda
  - Lucid Rain 
  
  
- **2.0 Project**
+## 2.0 and onward
  - Playerhomes
  - Dynamic Animations
  - Weapons and Armors (handplaced if I learn how to do so)
