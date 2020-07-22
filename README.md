@@ -591,8 +591,8 @@ While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaja
 
 ## Contributing
 
-See [Contributing](CONTRIBUTING.md).
+See [Contributing](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Contrbuting.md).
 
 ## Changelog
 
-See [Changelog](CHANGELOG.md).
+See [Changelog](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Changelog.md).
