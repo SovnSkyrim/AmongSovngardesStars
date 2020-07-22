@@ -18,6 +18,7 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Getting an ENB](#getting-an-enb)
+    - [Switching Weather Mods (or Profiles)](#Switching-Weather-Mods)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [Creating your Character](#creating-your-character)
@@ -165,9 +166,9 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## Switching Weather Mods (or Profiles)
+## Switching Weather Mods
 
-To switch the Weather mod simply look at the drop menu on top of the right panel and next to "Profile" in MO2, you should be able to select the profile with the weather mod of your choice. http://prntscr.com/tmu8ar http://prntscr.com/tmu8ar
+To switch the Weather mod simply look at the drop menu on top of the right panel and next to "Profile" in MO2, you should be able to select the profile with the weather mod of your choice. http://prntscr.com/tmu8ar
 
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
@@ -285,7 +286,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
    - Potion Recovery: Any (Weak To Strong)
 
 
-#### Frostfall
+#### Frostfall - CAN REMAIN DEACTIVATED IF YOU DO NOT LIKE SURVIVAL ASPECTS
 **Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
 
 - Overview → Frostfall Status :
@@ -318,7 +319,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Difficulty Adjustments → Creature Spawn Difficulty : 
   - Additional Spawns : Medium
 
-#### Keep It Clean
+#### Keep It Clean - CAN REMAIN DEACTIVATED IF YOU DO NOT LIKE SURVIVAL ASPECTS
 - Settings → Parameters :
   - Soap Buff Duration : 9
   - Duration before becoming Dirty : 48
@@ -383,7 +384,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Quick Light → Brightness :
   - Brightness - Bright
 
-#### Realistic Needs
+#### Realistic Needs - CAN REMAIN DEACTIVATED IF YOU DO NOT LIKE SURVIVAL ASPECTS
 - Basic Needs → Start RND
 
 **Note : Exit the MCM to let it start up properly**
@@ -492,7 +493,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Barter Presets : Medium
   
 #### The Ultimate Dodge Mod  
-
+ - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key.
 
 #### Ultimate Combat
 - General → Timed Block : 
@@ -568,6 +569,14 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 ## Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
+
+## My character is blocked in the air when trying to dodge!
+
+Simply press G (or your swap dodge key) two times to reset it.
+
+## I'm moving backward like a fucking snail!
+
+Behavior of 360 Walk and Run Plus, just deactivate it in the MCM if it bothers you, but your capes in game will clip through your feets.
 
 ## Credits and Thanks
 
