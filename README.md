@@ -35,7 +35,7 @@
 
 # Preamble
 
-This List is a Fork of Lexy's LOTD, it is supposed to enhance what Lexy didn't touch, remove what she feels awkward to have, add what she missed or took off the list for no purpose. 
+This List is a Fork of Lexy's LOTD, it is supposed to enhance what Lexy didn't touch, remove what I feel awkward to have, add what she missed or took off the list for no purpose. 
 It modifies the weather, animations, adds followers, and quests, enhances the Dragonborn Museum and also enables the player to have a much more in-depth character customization!
 
 **Under no circumstances should you be bothering her or her team with issues for this list.**
