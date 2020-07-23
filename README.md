@@ -90,7 +90,7 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the latest release of Sovn's LOTD from [the release tab](https://github.com/SovnSkyrim).
+Let's get to the actual installation. Grab the release of Sovn's LOTD from [the google drive folder](https://drive.google.com/drive/u/0/folders/1SfOCyaPS_QkRkVory97RIvRF719pC1Nh).
 
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
