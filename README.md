@@ -579,6 +579,10 @@ Simply press G (or your swap dodge key) two times to reset it.
 
 Behavior of 360 Walk and Run Plus, just deactivate it in the MCM if it bothers you, but your capes in game will clip through your feets.
 
+## My Mega.nz downloads dont work!
+
+Manually download the file you need [here](https://mega.nz/fm/oVtHharY) and add it to your downloads folder.
+
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
