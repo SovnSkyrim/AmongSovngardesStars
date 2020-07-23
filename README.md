@@ -35,8 +35,9 @@
 
 # Preamble
 
-This List is a Fork of Lexy's LOTD, it is supposed to enhance what Lexy didn't touch, remove what I feel awkward to have, add what she missed or took off the list for no purpose. 
-It modifies the weather, animations, adds followers, and quests, enhances the Dragonborn Museum and also enables the player to have a much more in-depth character customization!
+More quests and land mods, more followers, more LOTD content, more weapons and armors, totally new weathers (you can even swap them!), new player character customization (better heads, more freckles, decals, eyes..), new animations and a dodge mod! All packed up to work perfectly with Lexy's vision of Skyrim.
+
+Check the [Changelog](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Changelog.md) to see exactly the changes and what's in upcoming releases!
 
 **Under no circumstances should you be bothering her or her team with issues for this list.**
 
