@@ -521,6 +521,9 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - NPC Settings → Dragon Priest : 
   - HP Mult : HP 1.0
   
+#### VIGILANT
+ - No tweak here, you can manually adjust the difficulty if you find the mod too easy. Just note that this is a LATE GAME QUEST. It'd make much more sense if you do it after the Dawnguard questline and the House of Horrors (dw trust me, makes much more sense RP wise). Some areas WILL trap you in some places, I'm looking for a fix, but you should deactivate the needs in those cells. 
+  
 #### VioLens
 - Melee and Ranged → Melee:
   - Advancing Killmoves: Last Enemy
