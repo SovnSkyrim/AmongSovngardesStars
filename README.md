@@ -170,7 +170,7 @@ Updating is like installing. You only have to make sure that you select the same
 ## Switching Weather Mods
 
 To switch the Weather mod you need to do multiple steps since it's not supported natively by Wabbajack, but I got you covered!
-- Download [Vivid Weathers Definitive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2187?tab=files) the big file on the top.https://www.nexusmods.com/skyrimspecialedition/mods/2187?tab=files) the big file on the top. Install it in M02 but do not tick it!
+- Download [Vivid Weathers Definitive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2187?tab=files) the big file on top. Install it in M02 but do not tick it!
 - Download this [Bashed Patch](https://mega.nz/file/MQkhhDJD#U2f0AvYCAzBl4MO7L1i7OEPu9kHvmkDAogfk9FwY5hs) and Install it aswell in MO2.
 - Download this [MO2 Profile](https://mega.nz/file/tIlRUTqR#voRjAt2cYhDwEi04EI8HOmI4cvIH2USAoTWOLC2nJTE) and put the folder that's inside in your "profile" folder in the installation folder. [This](http://prntscr.com/tn5s85)
 Now, restart MO2 and look at the drop menu on top of the right panel and next to "Profile" in MO2, you should be able to select the profile with the weather mod of your choice. Like [this](http://prntscr.com/tmu8ar).
