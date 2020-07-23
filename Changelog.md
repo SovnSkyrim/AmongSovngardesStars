@@ -58,3 +58,4 @@ This is the initial release of Sovn's LOTD Based on Lexy's LOTD `14.6.2020` upda
  - New lands (UNSLAAD/Undeath?)
  - Followers (Hoth?)
  - NPC Retextures to my liking (Serana and Mocia's works)
+ - and more..
