@@ -1,5 +1,14 @@
 ## 1.0.0: Initial Release
 
+**Released at**: `23.07.2020`
+
+**Update**:
+- Display Spell Tome Level to V1.4
+
+
+
+## 1.0.0: Initial Release
+
 **Released at**: `22.07.2020`
 
 **Info**:
