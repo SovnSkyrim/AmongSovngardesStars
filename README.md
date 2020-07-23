@@ -35,7 +35,7 @@
 
 # Preamble
 
-More quests and land mods, more followers, more LOTD content, more weapons and armors, totally new weathers (you can even swap them!), new player character customization (better heads, more freckles, decals, eyes..), new animations and a dodge mod! All packed up to work perfectly with Lexy's vision of Skyrim.
+More quests and land mods, more followers, more LOTD content, AllGUD, Wintersun, more weapons and armors, totally new weathers (you can even swap them!), new player character customization (better heads, more freckles, decals, eyes..), new animations and a dodge mod! All packed up to work perfectly with Lexy's vision of Skyrim.
 
 Check the [Changelog](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Changelog.md) to see exactly the changes and what's in upcoming releases!
 
