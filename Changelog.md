@@ -49,7 +49,20 @@ This is the initial release of Sovn's LOTD Based on Lexy's LOTD `14.6.2020` upda
  - Cathedral Weathers MCM
  - Real Rain SE
  - Lucid Rain 
- 
+ - Darkwater Crossing
+ - Dawnstar
+ - Dragon Bridge
+ - Helarchen Creek
+ - Ivarstead
+ - Karthwasten
+ - Keld-Nar
+ - Kynesgrove
+ - Rorikstead
+ - Shor's Stone
+ - Soljund's Sinkhole
+ - Granite Hill
+ - Whistling Mine
+ - Oakwood
  
 ## 2.0 and onward
  - Playerhomes
