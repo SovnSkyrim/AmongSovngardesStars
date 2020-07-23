@@ -269,11 +269,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Winterhold : Disabled
 
 #### Farmhouse Chimneys
-- Mod Support → Arthmoor Village Options :
-  - Enable all **EXCEPT** Falkreath
-- Mod Support → New Villages :
-  - Helarchen Creek : Enabled
-  - Oakwood : Enabled
 - Mod Support → Misc Mods :
   - Cutting Room Floor : Enabled
 - Mod Support → Mod Compatibility :
