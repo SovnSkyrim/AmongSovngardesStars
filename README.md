@@ -587,8 +587,9 @@ Manually download the file you need [here](https://mega.nz/fm/oVtHharY) and add 
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Darkladylexy and her team - for creating this incredible guide and allowing me to create this fork.
-- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
-- Xanza specifically, helping me setup the list, double checking and asking Lexy for permission. 
+- Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
+- Xanza specifically, helping me setup the list, double checking and asking Lexy for permission.
+- Lively for guiding me through early steps of compiling and understanding how WJ works.
 
 ## Contact
 
