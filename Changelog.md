@@ -1,4 +1,4 @@
-## 1.1: Small Update
+## 1.1: Small Mod Update for Wabbajack Installer Consistency
 
 **Released at**: `23.07.2020`
 
