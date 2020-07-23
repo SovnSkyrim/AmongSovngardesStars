@@ -1,4 +1,4 @@
-## 1.0.0: Initial Release
+## 1.1: Small Update
 
 **Released at**: `23.07.2020`
 
@@ -7,7 +7,7 @@
 
 
 
-## 1.0.0: Initial Release
+## 1.0: Initial Release
 
 **Released at**: `22.07.2020`
 
