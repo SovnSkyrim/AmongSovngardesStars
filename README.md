@@ -1,6 +1,6 @@
 # Sovn's LOTD 
 
-- [Sovn's LOTD](#Sovns-LOTD)
+- [Sovn's LOTD - A Lexy's LOTD Fork](#Sovns-LOTD)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
