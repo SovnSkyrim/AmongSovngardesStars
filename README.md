@@ -109,7 +109,7 @@ The download and installation process can take a very long time depending on you
 6. Once the installation of Lexy's LOTD finished, go to the installation location of the list.
 7. Delete everything **BUT** the downloads folder.
 8. Open Wabbajack again.
-9. Load the Modlist from Disk
+9. Load _Sovn's LOTD .wabbajack file_ from Disk
 10. Adjust the download and installation paths to the same you chose for Lexy's (the most important one is the downloads path).
 11. Click the Go/Begin button.
 12. Wait for Wabbajack to finish
