@@ -1,3 +1,11 @@
+## 1.2: Widescreen and Profile fixes
+
+**Released at**: `23.07.2020`
+
+**Update**:
+- Swaping profile to change the weather mod is now directly integrated into the Wabbajack autoinstaller, no need to do anything manually but change the profile
+- Widescreen support directly added into MO2, no need to install anything else.
+
 ## 1.1: Small Mod Update for Wabbajack Installer Consistency
 
 **Released at**: `23.07.2020`
