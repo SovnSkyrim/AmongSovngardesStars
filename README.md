@@ -179,12 +179,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Switching Weather Mods
 
-To switch the Weather mod you need to do multiple steps since it's not supported natively by Wabbajack, but I got you covered!
-- Download [Vivid Weathers Definitive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2187?tab=files) the big file on top. Install it in MO2 but do not tick it!
-- Download this [Bashed Patch](https://mega.nz/file/MQkhhDJD#U2f0AvYCAzBl4MO7L1i7OEPu9kHvmkDAogfk9FwY5hs) and Install it manually in MO2, do not tick it neither!
-- Download this [MO2 Profile](https://mega.nz/file/tIlRUTqR#voRjAt2cYhDwEi04EI8HOmI4cvIH2USAoTWOLC2nJTE) and put the folder that's inside in your "profile" folder in the installation folder. [This folder](http://prntscr.com/tn5s85).
-
-Now, restart MO2 and look at the drop menu on top of the right panel and next to "Profile" in MO2, you should be able to select the profile with the weather mod of your choice. Like [this](http://prntscr.com/tmu8ar).
+Look at the drop menu on top of the right panel and next to "Profile" in MO2, you should be able to select the profile with the weather mod of your choice. Like [this](http://prntscr.com/tmu8ar).
 
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
@@ -561,16 +556,7 @@ Simply step up to the statue of mara and choose a start.
 ## FAQ
 
 ### Ultrawide Options
-If you have an ultrawide monitor (21:9), the UI will be off. You will want to download the following mods from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Place them below More Informative Console on the left pane.
-- Whichever main file applies to your monitor resolution
-- The following optional files
-  - Better Dialogue Control Widescreen Fix
-  - Better MessageBox Control Widescreen Fix
-  - Campfire 1.12.1 and Frostall 3.4.1SE - Unofficial SSE Widescreen Fix
-  - Experience - Widescreen fix
-  - Widescreen Fix for SkyUI SE - Flashing Savegames FIx
-  - Wider MCM Menu for SkyUI - Widescreen Fix
-
+If you have an ultrawide monitor (21:9), the UI will be off. You just need to enable the mod "Complete Widescreen Fix for Widescreen Users", at priority 692 (right at the end of MO2)
 
 ### Tweaking the Game Settings
 
