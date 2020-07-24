@@ -102,8 +102,8 @@ The download and installation process can take a very long time depending on you
 
 1. Open Wabbajack
 2. Go to "Browse Modlists"
-3. Download _Lexy's LOTD Unofficial Autoinstaller_.
-4. Adjust the download and installation paths.
+3. Download _Lexy's LOTD Unofficial_.
+4. Adjust the download and installation paths, care, it'll be the same ones for my installation
 5. Click the Go/Begin Button. Any error encountered in this step shall be redirected to the Lexy lotd support channel
  - If you have trouble downloading the finishing file, you can skip to 6.
 6. Once the installation of Lexy's LOTD finished, go to the installation location of the list.
