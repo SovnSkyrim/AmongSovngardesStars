@@ -42,7 +42,7 @@ Check the [Changelog](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Chang
 **Under no circumstances should you be bothering her or her team with issues for this list.**
 
 ## Installation
-
+#### THE FORK HAS TEMPORARILY BEEN DISCONITNUED, THANKS FOR YOUR COMPREHENSION, ITLL BE BACK UP AS SOON AS POSSIBLE
 ### Pre-Installation
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
