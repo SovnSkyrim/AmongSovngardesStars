@@ -1,3 +1,22 @@
+## 2.0: Update for Latest Lexy
+
+**Released at**: `02/08/2020`
+
+**Info** This update brings back the installer and updates it to Lexy's 31st of July Update
+
+**Added**
+- Ashes VIGILANT Witch Hunter Armor Retexture
+- Community Overlays 1/2/3 
+- Wolfpaint
+- Jarl Sitting Animation Replacer
+- EVG Animation Variance
+- Feral - Claw Unarmed Attacks for Beast Races
+- Ophelia Accesories
+
+**Update**:
+- VIGILANT SE 
+- Jump Behavior Overhaul
+
 ## 1.2: Widescreen and Profile fixes
 
 **Released at**: `23.07.2020`
