@@ -13,6 +13,7 @@
 - Feral - Claw Unarmed Attacks for Beast Races
 - Sprint Stop
 - Ophelia Accesories
+- SC - KS Hairdos Retextured 
 
 **Update**:
 - VIGILANT SE 
