@@ -11,6 +11,7 @@
 - Jarl Sitting Animation Replacer
 - EVG Animation Variance
 - Feral - Claw Unarmed Attacks for Beast Races
+- Sprint Stop
 - Ophelia Accesories
 
 **Update**:
