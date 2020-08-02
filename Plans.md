@@ -5,8 +5,10 @@
 **What I MIGHT add:**
 
 -New Animation or New Animation Replacers
+
 -Playerhomes
 -Followers
+
 -NPCs in general
 -Quest (Must be linked to LotD)
 -Armors and Weapons 
