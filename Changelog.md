@@ -18,6 +18,8 @@
 **Update**:
 - VIGILANT SE 
 - Jump Behavior Overhaul
+- Deadly Dragons
+- Nether's Follower Framework
 
 ## 1.2: Widescreen and Profile fixes
 
