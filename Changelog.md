@@ -6,7 +6,9 @@
 
 **Added**
 - Ashes VIGILANT Witch Hunter Armor Retexture
-- Community Overlays 1/2/3 
+- Community Overlays 1
+- Community Overlays 2
+- Community Overlays 3
 - Wolfpaint
 - Jarl Sitting Animation Replacer
 - EVG Animation Variance
