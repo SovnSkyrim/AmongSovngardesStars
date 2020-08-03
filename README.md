@@ -150,6 +150,7 @@ Obsidian Weathers:
 - [Amon ENB Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/35141)
 - [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Ominous](https://www.nexusmods.com/skyrimspecialedition/mods/27333)
+- [Nyclix's ENB/ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/3352)
 
 Vivid Weathers:
 
