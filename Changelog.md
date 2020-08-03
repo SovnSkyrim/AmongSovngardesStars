@@ -15,7 +15,8 @@
 - Feral - Claw Unarmed Attacks for Beast Races
 - Sprint Stop
 - Ophelia Accesories
-- SC - KS Hairdos Retextured 
+- SC - KS Hairdos Retextured
+- [Plans - GitHub tab](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Plans.md)
 
 **Update**:
 - The way updates are named (1.0 Become 0.1.0)
@@ -106,12 +107,3 @@ This is the initial release of Sovn's LOTD Based on Lexy's LOTD `14.6.2020` upda
  - Granite Hill
  - Whistling Mine
  - Oakwood
- 
-## 0.3.0 and onward
- - Playerhomes
- - Dynamic Animations
- - Weapons and Armors (handplaced if I learn how to do so)
- - New lands (UNSLAAD/Undeath?)
- - Followers (Hoth?)
- - NPC Retextures to my liking (Serana and Mocia's works)
- - and more..
