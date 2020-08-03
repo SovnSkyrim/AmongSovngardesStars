@@ -576,7 +576,7 @@ Simply press G (or your swap dodge key) two times to reset it.
 
 ## I'm moving backward like a fucking snail!
 
-Behavior of 360 Walk and Run Plus, just deactivate it in the MCM if it bothers you, but your capes in game will clip through your feets.
+Behavior of 360 Walk and Run Plus, just deactivate it in ModOrganizer2 if it bothers you, but your capes in game will clip through your feets.
 
 ## My Mega.nz download dont work!
 
