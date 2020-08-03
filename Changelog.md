@@ -18,6 +18,7 @@
 - SC - KS Hairdos Retextured 
 
 **Update**:
+- The way updates are named (1.0 Become 0.1.0)
 - VIGILANT SE 
 - Jump Behavior Overhaul
 - Deadly Dragons
