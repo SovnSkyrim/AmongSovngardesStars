@@ -18,28 +18,19 @@
 
   This first point is the most important one.
   
- -Make the list heavier, restrict it to higher end pcs as original Lexy's
+ **- Make the list heavier, restrict it to higher end pcs as original Lexy's**
  
-
- -Modify Lights and lighting elements
- 
- -Loot in general
- 
- -Survival Aspects (only improving, never removing)
- 
- -Remove most of Lexy's own list.
-
+ - Modify Lights and lighting elements
+ - Loot in general
+ - Survival Aspects (only improving, never removing)
+ - Remove most of Lexy's own list.
 
 ## But for now?
 
-  First steps toward 2.1 are:
+  **First steps toward 2.1 are:**
   
- -Adding Play Random Idle with Realistic Animation Project's Idles
- 
- -Making NPCs to my liking (Hi Mocia)
- 
- -More followers
-
+ - Adding Play Random Idle with Realistic Animation Project's Idles
+ - Some MCM Automation and rework of the MCM page
 
 
   Thanks for reading 
