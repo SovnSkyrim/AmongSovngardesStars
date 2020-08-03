@@ -4,22 +4,15 @@
 
 **What I MIGHT add:**
 
- -New Animation or New Animation Replacers
- -Playerhomes
- 
- -Followers
- 
- -NPCs in general
- 
- -Quest (Must be linked to LotD)
- 
- -Armors and Weapons 
- 
- -New City Overhauls
- 
- -Weather mods and ENB selection
- 
- -New Retexture that I prefer
+ - New Animation or New Animation Replacers
+ - Playerhomes
+ - Followers
+ - NPCs in general
+ - Quest (Must be linked to LotD)
+ - Armors and Weapons 
+ - New City Overhauls
+ - Weather mods and ENB selection
+ - New Retexture that I prefer
 
 **What I WILL NOT DO (or shouldnt to a certain extent)**
 
