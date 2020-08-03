@@ -1,4 +1,4 @@
-## 2.0: Update for Latest Lexy
+## 0.2.0: Update for Latest Lexy
 
 **Released at**: `02/08/2020`
 
@@ -23,7 +23,7 @@
 - Deadly Dragons
 - Nether's Follower Framework
 
-## 1.2: Widescreen and Profile fixes
+## 0.1.2: Widescreen and Profile fixes
 
 **Released at**: `23.07.2020`
 
@@ -31,7 +31,7 @@
 - Swaping profile to change the weather mod is now directly integrated into the Wabbajack autoinstaller, no need to do anything manually but change the profile
 - Widescreen support directly added into MO2, no need to install anything else.
 
-## 1.1: Small Mod Update for Wabbajack Installer Consistency
+## 0.1.1: Small Mod Update for Wabbajack Installer Consistency
 
 **Released at**: `23.07.2020`
 
@@ -40,7 +40,7 @@
 
 
 
-## 1.0: Initial Release
+## 0.1.0: Initial Release
 
 **Released at**: `22.07.2020`
 
@@ -106,7 +106,7 @@ This is the initial release of Sovn's LOTD Based on Lexy's LOTD `14.6.2020` upda
  - Whistling Mine
  - Oakwood
  
-## 2.0 and onward
+## 0.3.0 and onward
  - Playerhomes
  - Dynamic Animations
  - Weapons and Armors (handplaced if I learn how to do so)
