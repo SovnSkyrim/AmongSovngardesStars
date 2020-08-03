@@ -19,7 +19,6 @@
   This first point is the most important one.
   
  - **Make the list heavier, restrict it to higher end pcs as original Lexy's**
- 
  - Modify Lights and lighting elements
  - Loot in general
  - Survival Aspects (only improving, never removing)
