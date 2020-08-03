@@ -578,9 +578,12 @@ Simply press G (or your swap dodge key) two times to reset it.
 
 Behavior of 360 Walk and Run Plus, just deactivate it in the MCM if it bothers you, but your capes in game will clip through your feets.
 
-## My Mega.nz DynDOLOD download dont work!
+## My Mega.nz download dont work!
 
-Manually download the file you need [here](https://mega.nz/file/YF9nRb4a#XYBCT0kO8eNJLiVu1tM8qiEpcq4WVZi7tvPtbbSaqTY) and add it to your downloads folder.
+Manually download the file you need and add it to your downloads folder.
+ - [Sovn's LOTD - DynDOLOD and xLODGEN .zip](https://mega.nz/file/YF9nRb4a#XYBCT0kO8eNJLiVu1tM8qiEpcq4WVZi7tvPtbbSaqTY)
+ - [xLODGen.64.7z](https://mega.nz/file/VBJRFKAY#sm7YkovVCWczwnnNn4nmkV7PfHlkzQL67jAAUleZGng)
+ - [Lexy's LOTD Replacer Files .7z](https://mega.nz/file/QZ91gajb#zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk)
 
 ## Credits and Thanks
 
