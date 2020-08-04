@@ -155,6 +155,7 @@ Obsidian Weathers:
 Vivid Weathers:
 
 - [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009)
+- [Skyrim Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 
 
 Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory. 
