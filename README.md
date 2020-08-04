@@ -500,6 +500,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   
 #### The Ultimate Dodge Mod  
  - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key.
+ - Disable NPC dodge
 
 #### Ultimate Combat
 - General → Timed Block : 
