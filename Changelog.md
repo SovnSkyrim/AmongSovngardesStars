@@ -5,6 +5,7 @@
 **Info** Stuff I've been working on.
 
 **Added**
+- SkyHUD for Widescreen fixes
 - MCM Automation (atleast some help)
 - Skyrim Lofi - Main Menu Replacer
 - TB's Improved Dust Particles
