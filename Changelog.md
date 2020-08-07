@@ -1,3 +1,24 @@
+## 0.2.1: All work I've done 'till decisions.
+
+**Released at**: `07/08/2020`
+
+**Info** Stuff I've been working on.
+
+**Added**
+- MCM Automation (atleast some help)
+- Skyrim Lofi - Main Menu Replacer
+- TB's Improved Dust Particles
+- Play Random Idle with Realistic Animation Project's Idles
+
+**Updated**
+- Realistic Water Two
+- Embers XD
+- Racemenu
+
+**Removed**
+- Sprint Stop
+
+
 ## 0.2.0: Update for Latest Lexy
 
 **Released at**: `02/08/2020`
