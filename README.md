@@ -187,29 +187,8 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 #### A Matter of Time
 
-- General → Symbol 1:
-   - Show Moon Phases: Enabled
-   - Show Seasons: Enabled
-
-- Display → Symbol 1:
-   - Scale: 60%
-   - Horizontal Anchor: Right
-   - Horizontal Offset: -50
-   - Vertical Offset: 0
-
-- Display → In-Game Clock:
-   - Scale: 70%
-   - Horizontal Anchor: Right
-   - Horizontal Offset: -45
-   - Vertical Offset: 48
-
-- Display → In-Game Date:
-   - Scale: 70%
-   - Horizontal Anchor: Right
-   - Horizontal Offset: -45
-   - Vertical Offset: 57
+- Load Preset
     
-
 #### All Geared up Derivative
 - Misc. Player :
   - Enable Misc. Item Display : Disabled
@@ -282,16 +261,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 #### Follower Framework
 
-- Activity → Sandboxing:
-   - Only Sandbox In Towns: Enabled
-   - Multi-Level Sandboxing: Enabled
-- Activity → Movement:
-   - Catch Up Teleport: Disabled
-- Activity → Mounts:
-   - Mount Support: Riding Support Only
-- Gameplay → Combat:
-   - Potion Recovery: Any (Weak To Strong)
-
+- Load Preset
 
 #### Frostfall - IF YOU DO NOT WANT TO USE IT, ACTIVATE ONE TIME THEN DEACTIVATE MANUALLY, IT'LL HAVE A SHIT SCRIPT THAT MIGHT BLOAT YOUR SAVE IF YOU ONLY LEAVE IT DEACTIVATED
 **Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
@@ -299,7 +269,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Overview → Frostfall Status :
   - Frostfall Is: Enabled (This will require you to exit and wait until you see the message "Done! Frostfall is enabled")
 - Profiles → Settings Profiles :
-  - Current Profile : Lexy LOTD Profile (Re-select this)
+  - Load Profile
 
 #### Immersive Armors
 - Armor Options → Distribution : 
@@ -356,10 +326,8 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Enable Unlock Spell : Enabled
   - Frost effect Required Skill malus: -0
 
-#### Moonlight Tales
+#### Moonlight Tales (Preferences)
 - General : 
-  - Transform Back Stagger: Disabled
-  - Werewolf Loot: Disabled
 - Appearance : 
   - Werewolf Appearance: Alpha (Black with Red Eyes)
   
@@ -422,76 +390,14 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Minimum Fork Distance : 1
 
 #### Thieves Guild Requirements
-- Main Quest → Requirements to Begin Recruitment Quest :
-  - Sneak : 25
-  - Items Stolen : 250
-
-- Main Quest → Requirements to Begin 3rd Quest :
-  - Radiant Jobs Completed : 20
-  - Randomize : Enabled
-  - Sneak Skills : 35
-- Main Quest → Requirements to Begin 4th Quest :
-  - Radiant Jobs Completed : 40
-  - Sneak Skills : 45
-- Radiant Quests → Radiant Job Options : 
-  - Bedlam Job : 500
-- Radiant Quests → City Influence Quests :
-  - Randomize : Enabled
-- Misc Options → Unusual Gems :
-  - Selling Price : 50
-  - Cost Multiple to Buy : x 20
-- Misc Options → Shadowmarks :
-  - Require City Quest : Enabled
-  - Use Loot mark : Enabled
+ - Load Prest
+ - Cycle through all the tabs
+ - Load Preset again (now it will stick)
   
 #### Timing is Everything
-- DLC Quests → Dawnguard :
-  - Enabled Vampire Attacks : Enabled
-  - Vampire Attacks : 30
-  - Dawnguard Recruitment : 30
-  - Disgused Vampire Chance : 30
-  - Scouting Party Chance : 35
-  - Eclipse Attack Chance : 0
-  - Min Days Between Attacks : 5
-  - Max Days Between Attacks : 20
--DLC Quests → Hearthfire :
-  - Minimum Level : 20
-- DLC → Dragonborn :
-  - After The Horn of Jurgen Windcaller
-  - Minimum Level : 50
-  - Cultist Attack Chance : 25
-- Other Quests → Daedric Quest :
-  - The Cursed Tribe : 25
-  - The Break of Dawn : 45
-  - The Break of Dawn: No Vampires : Enabled
-  - The Only Cure : 40
-  - A Night to Remember : 30
-  - Discerning the Transmundane : 60
-  - The Whispering Door : 40
-  - Pieces of The Past : 35
-  - Boethiah's Calling : 40
--Other Quests → Misc Quest :
-  - The Wolf Queen Awakened : 47
-  - Unfathomable Depths : 32
-  - Grimsever's Return : 32
-  - Kill The Giant : 22
-  - Dungeon Delving : 30
-  - Kill the Vampire : 30
-  - Deathbrand : 36
-  - Ebony Warrior : 75
-- Extra Options → World Encounters :
-  - Werewolf Encounters : Enabled
-  - Thalmor Squard : Min Level: 10
-  - Hired Thugs: Stolen Item Value : 300
-  - Hired Assassin Min Level : 15
-  - Hired Assaults : 0
-  - Hired Assassin: Murders : 0
-  - Bounty Collector: Required Bounty : 1500
-  - Bounty Collector Chance : 25
-  - Letter from a Friend : Disabled
-- Extra Options → Dragon Attacks :
-  - Min Days Between Attacks : 3
-  - Dragon Attack Chance : 100
+ - Load Prest
+ - Cycle through all the tabs
+ - Load Preset again (now it will stick)
   
 #### Trade and Barter
 - Trade & Barter → Settings :
@@ -532,24 +438,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
  - No tweak here, you can manually adjust the difficulty if you find the mod too easy. Just note that this is a LATE GAME QUEST. It'd make much more sense if you do it after the Dawnguard questline and the House of Horrors (dw trust me, makes much more sense RP wise). Some areas WILL trap you in some places, I'm looking for a fix, but you should deactivate the needs in those cells. 
   
 #### VioLens
-- Melee and Ranged → Melee:
-  - Advancing Killmoves: Last Enemy
-  - Killmove Chance: 65%
-  - Camera View: 3rd Person Last
-  - Last Enemy Restriction: Disabled
-  - Player Killmove Immunity: Enabled 
-  - Mace Decapitations: Disabled
-
-- Melee and Ranged → Ranged:
-   - Selection Mode: Automatic
-   - Killmove Chance: 65%
-   - Camera View: Projectiles
-   - Last Enemy Restriction: Disabled
-- Stealth & Triggers → Stealth:
-   - Killmove Chance: 65%
-- Stealth & Triggers → Triggers:
-   - Left Attacks: Enabled
-   - Alt Werewolf Attacks: Enabled
+- Load Preset
   
 ## Creating your Character
 
