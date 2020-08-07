@@ -447,7 +447,7 @@ Simply step up to the statue of mara and choose a start.
 ## FAQ
 
 ### Ultrawide Options
-If you have an ultrawide monitor (21:9), the UI will be off. You just need to enable the mod "Complete Widescreen Fix for Widescreen Users", at priority 692 (right at the end of MO2)
+If you have an ultrawide monitor (21:9), the UI will be off. You just need to enable everything under the Separator "Activate this if you have a widescreen monitor" in MO2. [Those](http://prntscr.com/tvqeuf)
 
 ### Tweaking the Game Settings
 
