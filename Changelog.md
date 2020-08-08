@@ -1,3 +1,16 @@
+## 0.2.2: Cathedral Weathers Support addition and .wabbajack fix.
+
+**Released at**: `08/08/2020`
+
+**Added (Profile related)**
+ - Cathedral Weathers 
+ - Cathedral Weathers MCM
+ - Real Rain SE
+ - Lucid Rain 
+ 
+**Updated**
+ - Embers XD (AGAIN)
+
 ## 0.2.1: All work I've done 'till decisions.
 
 **Released at**: `07/08/2020`
