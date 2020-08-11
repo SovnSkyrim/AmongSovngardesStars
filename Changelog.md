@@ -1,3 +1,11 @@
+## 0.2.69 fucking updates: I hate those mods
+
+**Released at**: Anytime they update cause they suck.
+ 
+**Updated**
+ - Embers XD
+ - Display Spell Tome Level - Magic Mod Add-ons
+
 ## 0.2.2: Cathedral Weathers Support addition and .wabbajack fix.
 
 **Released at**: `08/08/2020`
