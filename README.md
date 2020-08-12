@@ -100,18 +100,10 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Go to "Browse Modlists"
-3. Download _Lexy's LOTD Unofficial_.
-4. Adjust the download and installation paths, care, it'll be the same ones for my installation
-5. Click the Go/Begin Button. Any error encountered in this step shall be redirected to the Lexy lotd support channel
- - If you have trouble downloading the finishing file, you can skip to 6.
-6. Once the installation of Lexy's LOTD finished, go to the installation location of the list.
-7. Delete everything **BUT** the downloads folder.
-8. Open Wabbajack again.
-9. Load _Sovn's LOTD .wabbajack file_ from Disk
-10. Adjust the download and installation paths to the same you chose for Lexy's (the most important one is the downloads path).
-11. Click the Go/Begin button.
-12. Wait for Wabbajack to finish
+2. Load _Sovn's LOTD .wabbajack file_ from Disk
+3. Adjust the download and installation paths..
+4. Click the Go/Begin button.
+5. Wait for Wabbajack to finish.
 
 We use Lexy's installer for mod updates, if you go straight to my fork, you might have problems, it's most likely faster for you to download Lexy first then mine.
 
