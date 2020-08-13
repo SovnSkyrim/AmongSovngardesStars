@@ -105,8 +105,6 @@ The download and installation process can take a very long time depending on you
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
 
-We use Lexy's installer for mod updates, if you go straight to my fork, you might have problems, it's most likely faster for you to download Lexy first then mine.
-
 ##### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
