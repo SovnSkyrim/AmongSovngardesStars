@@ -436,6 +436,9 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   
 #### VioLens
 - Load Preset
+
+#### Wildcat
+- Disable Injuries: Enabled
   
 ## Creating your Character
 
