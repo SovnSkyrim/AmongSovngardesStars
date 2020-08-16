@@ -439,6 +439,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 #### Wildcat
 - Disable Injuries: Enabled
+- Allow Wildcat to manage difficulty: Enabled
   
 ## Creating your Character
 
