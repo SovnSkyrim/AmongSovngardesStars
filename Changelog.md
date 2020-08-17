@@ -17,6 +17,9 @@
  - Vigilance Reeborn
  - Honed Metal + Voiced Addon
  - PCA_Arrow Attach Kit
+ 
+ **Updated**
+ -AllGUD Meshes (discovered a patch heaven)
 
 ## 0.2.69 fucking updates: I hate those mods
 
