@@ -1,6 +1,8 @@
 ## 0.3.0 - Bunch of additions
 
 **Released at**: 18/8/2020
+
+**Notes** Should be Safe compatible
  
 **Added**
  - Marry Me Serana
