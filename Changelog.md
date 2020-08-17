@@ -2,7 +2,7 @@
 
 **Released at**: 18/8/2020
 
-**Notes** Should be Safe compatible
+**Notes** Should be Save compatible
  
 **Added**
  - Marry Me Serana
