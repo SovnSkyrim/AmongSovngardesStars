@@ -1,3 +1,21 @@
+## 0.3.0 - Bunch of additions
+
+**Released at**: 18/8/2020
+ 
+**Added**
+ - Marry Me Serana
+ - Serana Dialogue Add-on
+ - FleshFX
+ - Strange Runes
+ - 3PCO
+ - Triumvirate
+ - Dear Diary
+ - Paper UI Sounds
+ - True Meeko SE
+ - Vigilance Reeborn
+ - Honed Metal + Voiced Addon
+ - PCA_Arrow Attach Kit
+
 ## 0.2.69 fucking updates: I hate those mods
 
 **Released at**: Anytime they update cause they suck.
