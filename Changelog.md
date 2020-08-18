@@ -18,6 +18,8 @@
  - Vigilance Reeborn
  - Honed Metal + Voiced Addon
  - PCA_Arrow Attach Kit
+ - Sustained Magic
+ - Sustained Magic Patches + Consistency Records Patch
  
  **Updated**
  -AllGUD Meshes (discovered a patch heaven)
