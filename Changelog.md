@@ -1,4 +1,4 @@
-## 0.3.0 - Bunch of additions
+## 0.3.0 - Serana Enhancement
 
 **Released at**: 18/8/2020
 
@@ -7,6 +7,7 @@
 **Added**
  - Marry Me Serana
  - Serana Dialogue Add-on
+ - Snuggly Serana (So she comes to warm you up under your tent :) )
  - FleshFX
  - Strange Runes
  - 3PCO
