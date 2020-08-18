@@ -1,6 +1,6 @@
 ## 0.3.0 - Serana Enhancement
 
-**Released at**: 18/8/2020
+**Released at**: `18/8/2020`
 
 **Notes** Should be Save compatible
  
