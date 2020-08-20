@@ -440,6 +440,9 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 #### Wildcat
 - Disable Injuries: Enabled
 - Allow Wildcat to manage difficulty: Enabled
+
+#### Wonders of Weathers
+- Rain Splashes : Disabled
   
 ## Creating your Character
 
