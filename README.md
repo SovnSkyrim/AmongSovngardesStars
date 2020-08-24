@@ -512,7 +512,7 @@ Behavior of 360 Walk and Run Plus, just deactivate it in ModOrganizer2 if it bot
 ## My Mega.nz download dont work!
 
 Manually download the file you need and add it to your downloads folder.
- - [Sovn's LOTD - DynDOLOD and xLODGEN .zip](https://mega.nz/file/YF9nRb4a#XYBCT0kO8eNJLiVu1tM8qiEpcq4WVZi7tvPtbbSaqTY)
+ - [Among Sovngarde's Stars - DynDOLOD and xLODGEN.zip](https://mega.nz/file/NQlxGACY#5DeHfYZplyKKcuaQW1mARLnD2uSlrauH4sfVAQJOsX0)
  - [xLODGen.64.7z](https://mega.nz/file/VBJRFKAY#sm7YkovVCWczwnnNn4nmkV7PfHlkzQL67jAAUleZGng)
  - [Lexy's LOTD Replacer Files .7z](https://mega.nz/file/QZ91gajb#zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk)
 
@@ -521,12 +521,12 @@ Manually download the file you need and add it to your downloads folder.
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Darkladylexy and her team - for creating this incredible guide and allowing me to create this fork.
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
-- Xanza specifically, helping me setup the list, double checking and asking Lexy for permission.
+- Xanza specifically for constantly helping me and answering my questions whenever he can.
 - Lively for guiding me through early steps of compiling and understanding how WJ works.
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/SovnSkyrim/Sovns_LOTD/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU** but you can safely ping me in #unofficial-modlist-support, I'll answer whenever I can.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the Discord. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU** but you can safely ping me in #unofficial-modlist-support or my own Discord, I'll answer whenever I can.
 
 ## Contributing
 
@@ -534,4 +534,4 @@ See [Contributing](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Contrbut
 
 ## Changelog
 
-See [Changelog](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Changelog.md).
+See [Changelog](https://github.com/SovnSkyrim/AmongSovngardesStars/blob/master/Changelog.md).
