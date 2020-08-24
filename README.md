@@ -35,11 +35,12 @@
 
 # Preamble
 
-More quests and land mods, more followers, more LOTD content, AllGUD, Wintersun, more weapons and armors, totally new weathers (you can even swap them!), new player character customization (better heads, more freckles, decals, eyes..), new animations and a dodge mod! All packed up to work perfectly with Lexy's vision of Skyrim.
-
-Check the [Changelog](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Changelog.md) to see exactly the changes and what's in upcoming releases!
+Among Sovngarde's Stars is a Wabbajack list created on top of Lexy's LOTD for Special Edition List, it aims to grow into it's own thing.
+It uses Lexy's 23rd of August's and adds a lot of new stuff like followers, new lands, combat additions, new loots, playerhomes, Campfire addons, Keep it Clean addons, Hunterborn, Warmonger Armory, Wintersun, AllGUD and many more!
+Check the [Changelog](https://github.com/SovnSkyrim/AmongSovngardesStars/blob/master/Changelog.md) to see exactly the changes!
 
 **Under no circumstances should you be bothering her or her team with issues for this list.**
+Instead come in the discord I made for everything around the list! https://discord.gg/ZgjVrXp
 
 ## Installation
 ### Pre-Installation
@@ -89,7 +90,7 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the release of Sovn's LOTD from [the google drive folder](https://drive.google.com/drive/u/0/folders/1SfOCyaPS_QkRkVory97RIvRF719pC1Nh).
+Let's get to the actual installation. Grab the release of Among Sovngarde's Stars from available through the Discord server in #links.
 
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
@@ -100,7 +101,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Load _Sovn's LOTD .wabbajack file_ from Disk
+2. Load _Among Sovngarde's Stars .wabbajack file_ from Disk
 3. Adjust the download and installation paths..
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
@@ -160,7 +161,7 @@ Once you found a preset you like. Download it and extract the enbseries folder, 
 **Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**
 
 
-## How to start up Sovn's LOTD
+## How to start up Among Sovngarde's Stars
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
@@ -184,7 +185,8 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 #### A Matter of Time
 
-- Load Preset
+- Presets :
+  - Load User Settings
     
 #### All Geared up Derivative
 - Misc. Player :
@@ -239,9 +241,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Simple Action: Hidden
 - Configuration → Wheel Layout :
   - Current Wheel : 2
-  - 1: Horses Whistle
-  - 2: Horse Call
-  - 3: Pray
+  - Set it up however you like, but it's recommended to have Pray/Call Horse.
 
 #### Expanded Towns
 - Settings → Fortification Wall :
@@ -258,7 +258,8 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 #### Follower Framework
 
-- Load Preset
+- System :
+  - Load From File
 
 #### Frostfall - IF YOU DO NOT WANT TO USE IT, ACTIVATE ONE TIME THEN DEACTIVATE MANUALLY, IT'LL HAVE A SHIT SCRIPT THAT MIGHT BLOAT YOUR SAVE IF YOU ONLY LEAVE IT DEACTIVATED
 **Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
@@ -267,6 +268,12 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Frostfall Is: Enabled (This will require you to exit and wait until you see the message "Done! Frostfall is enabled")
 - Profiles → Settings Profiles :
   - Load Profile
+  
+#### Hunterborn
+**Note : DO NOT ACTIVATE HUNTERBORN UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
+
+- Features :
+  - Start Hunterborn
 
 #### Immersive Armors
 - Armor Options → Distribution : 
@@ -276,6 +283,10 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Varied Guard Helmets : Disabled
   
 **Note : Exit the MCM and wait for it to say  "Immersivie Armors Configuration has Finished". Takes about 30 seconds**
+
+#### Imperious
+- Nothing is really important, you can toggle stuff depending on your Race tho!
+Reminder that you can't switch race/sex using Showracemenu because of such a mod!
 
 #### Immersive Creatures
 - General → General : 
@@ -303,12 +314,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   
 **Note : Exit the MCM to let it start up properly**
 
-#### LOTD Settings
-- LOTD Settings → General → Shippment Crate Locations : 
-  - Carriages: Enabled
-  - Inns: Enabled
-  - Player Houses: Enabled
-
 #### Lock Overhaul
 - General : 
   - Activate Lock Overhaul: Enabled (This will require you to exit and reload the MCM)
@@ -322,12 +327,29 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Unlock with Magic → Unlock Spell :
   - Enable Unlock Spell : Enabled
   - Frost effect Required Skill malus: -0
+  
+  #### LOTD Settings
+- LOTD Settings → General → Shippment Crate Locations : 
+  - Carriages: Enabled
+  - Inns: Enabled
+  - Player Houses: Enabled (They have been changed so you might want to report problems with that)
 
 #### Moonlight Tales (Preferences)
 - General : 
 - Appearance : 
   - Werewolf Appearance: Alpha (Black with Red Eyes)
-  
+
+#### moreHUD (mostly preferences, I play with this)
+
+- Enemy's Level
+  - General:
+    - Show Enemy Level: Disabled
+    - Show Soul Level: Disabled
+- Enemy Meters:
+  - Enemy Meter
+    - Show Magicka Meter: Disabled
+    - Show Stamina Meter: Disabled
+    
 #### Not So Fast MG
 - Minimum Days Before Event : 
   - Saarthal Expedition : 3
@@ -361,6 +383,10 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 **Note : Exit the MCM to let it start up properly**
 
+#### I Want RND Widgets
+- User Load/Save:
+  - Load
+
 #### Realistic Water Two
 - Mod Options → Blacksmith Forge Water :
   - The Fall of Granite Hill : Enabled
@@ -385,6 +411,9 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Realistic : Enabled
 - Settings → Fork Lightning : 
   - Minimum Fork Distance : 1
+  
+#### Tentapalooza
+- Set all tents from "No Protection" to "Rain & Snow"
 
 #### Thieves Guild Requirements
  - Load Prest
@@ -403,8 +432,15 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Barter Presets : Medium
   
 #### The Ultimate Dodge Mod  
- - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key.
- - Disable NPC dodge
+ - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key. This step is very important
+ A Keybinding example would be:
+ - Vanilla Sneak key within Options: C
+ - Sneak key within TUDM's MCM: Left Control
+Now your character will roll/sidestep with C and Sneak with Left Control
+I also would recommend to use sidestep (personal preference)
+
+- Npc Settings :
+  - NPC Dodge AI: Disabled
 
 #### Ultimate Combat
 - General → Timed Block : 
