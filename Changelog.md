@@ -1,3 +1,92 @@
+## 0.4.0: Alignement to Lexy's LOTD 23rd of August Update + Lots of new stuff.
+
+**Released at**: `24/08/2020`
+
+**Info** : Rebranding!  From Sovn's LOTD to Among Sovngarde's Stars. New Discord: https://discord.gg/ZgjVrXp  
+
+**Added**
+- Undeath Remastered
+- Undeath The Ascension
+- Undeath Patches 
+- UNSLAAD
+- UNSLAAD Voiced - English
+- Hammet's Dungeon Pack
+- DarkenD
+- Clockwork
+- Hunterborn
+- Hunterborn SE MCM
+- Skills of the Wild - New Campfire Survival Skill Trees
+- Skills of the Wild - Patches
+- Artisan Soaps SSE for Keep it Clean
+- Bathtubs Basins and Beyond
+- Tentapalooza for Campfire
+- Necromancer's Camp
+- Dawnguard Arsenal SE
+- Dawnguard Arsenal Patches
+- Warmonger Armory
+- Warmonger Armory - Loremonger Edition
+- Dragon Priests Enhanced 
+- Masks of the Dovah Sonaak SE
+- Masks of the Dovah Sonaak SE - Fix
+- Masks of the Dovah Sonaak SE Patch for Dragon Priests Enhanced and Warmonger Armory (Courtesy of Jdsmith)
+- AIM FIX Lite
+- Livia Salvian Revamped
+- Mirai, the Girl with the Dragon Heart
+- Hoth
+- Nerida
+- Companions and Followers SE
+- Garm the Husky Companion
+- Real Warrior Woman
+- Harold the Goat
+- Dovahbear Companion
+- Companion Yngvarr
+- Improved Follower Dialogue Lydia
+- Leijona Barbarian Follower
+- Luna
+- Kaidan 2
+- Pandorable Kaidan 
+- Nemain 
+- The Dark Triumvirate - Revamped (Followers)
+- Kirsten
+- Recorder
+- Sweet as Honeyside
+- Hjerim
+- Severin Manor
+- Proudspire
+- The Ravens Breezehome
+- Vlindrel Hall TNF
+- Jk's The Bannered Mare
+- Jk's Sleeping Giant Inn
+- Jk's The Drunken Huntsman
+- Jk's Warmaiden's
+- Jk's Belethor's General Goods
+- Jk's Arcadia's Cauldron
+- Jk's Dragonsreach
+- Skyrim Wayshrines, Immersive Fast Travel 
+- Skyrim Wayshrines, Immersive Fast Travel - New Lands Patch
+- Zulfardin + Wintersun Patch
+- Waking Nightmare + Wintersun Patch
+- Krovaxis + Wintersun Patch
+- Providence and Pestilence + Wintersun Patch
+- King of Worms | Queen of Dawn + Wintersun Patch
+- The Tale of Tsatampra Xiros
+- Identity Crisis
+- Rayek's End
+- Rayek's End Hearthfire Multiple Adoptions Support
+- Rayek's End Dreadful Tweaks 2020
+- Morskom Estate
+- Mindrot's Rest
+- Easy Wheel Menu Script Patch
+- Player Rotation in Showracemenu
+- AIM FIX Lite
+
+**Changed**
+- Realistic AI Detection: From lite to Medium Exterior Medium Interior
+
+**Removed**
+- Sustained Magic + it's patches
+- Apophysis Masks
+
 ## 0.3.0 - Serana Enhancement
 
 **Released at**: `18/8/2020`
