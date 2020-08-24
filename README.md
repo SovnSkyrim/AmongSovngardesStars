@@ -1,6 +1,6 @@
 # Among Sovngarde's Stars
 
-- [Among Sovngarde's Stars](#Among Sovngarde's Stars)
+- [Among Sovngarde's Stars](#Among-Sovngardes-Stars)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
