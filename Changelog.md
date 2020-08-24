@@ -78,7 +78,6 @@
 - Mindrot's Rest
 - Easy Wheel Menu Script Patch
 - Player Rotation in Showracemenu
-- AIM FIX Lite
 
 **Changed**
 - Realistic AI Detection: From lite to Medium Exterior Medium Interior
