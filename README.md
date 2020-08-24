@@ -1,6 +1,6 @@
-# Sovn's LOTD 
+# Among Sovngarde's Stars
 
-- [Sovn's LOTD - A Lexy's LOTD Fork](#Sovns-LOTD)
+- [Sovn's LOTD - A Lexy's LOTD Fork](#Among Sovngarde's Stars)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
