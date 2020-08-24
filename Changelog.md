@@ -70,7 +70,7 @@
 - Providence and Pestilence + Wintersun Patch
 - King of Worms | Queen of Dawn + Wintersun Patch
 - The Tale of Tsatampra Xiros
-- Identity Crisis
+- Identity Crisis + Wintersun Patch
 - Rayek's End
 - Rayek's End Hearthfire Multiple Adoptions Support
 - Rayek's End Dreadful Tweaks 2020
