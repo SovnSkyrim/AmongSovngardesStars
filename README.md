@@ -523,6 +523,7 @@ Manually download the file you need and add it to your downloads folder.
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Xanza specifically for constantly helping me and answering my questions whenever he can.
 - Lively for guiding me through early steps of compiling and understanding how WJ works.
+- Althro for being such a ressourceful person and helping for the Discord a lot.
 
 ## Contact
 
