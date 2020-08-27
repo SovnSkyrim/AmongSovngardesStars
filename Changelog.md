@@ -1,3 +1,24 @@
+## 0.4.1: Bug Fixes and CGO
+
+**Released at**: `27.08.2020`
+
+**Notes** : Needs a new savefile.
+
+**Added**:
+- CGO
+- CGO Patches
+- Quiet Dog - Sit
+
+**Fixed**:
+- DynDOLOD Errors
+- zPatch errors
+- Campfire Textures
+- Multiple Black faces
+
+**Known Issue**: 
+- Drinking from stream will uses a dodge animation > still looking to fix it.
+
+
 ## 0.4.0: Alignement to Lexy's LOTD 23rd of August Update + Lots of new stuff.
 
 **Released at**: `24/08/2020`
