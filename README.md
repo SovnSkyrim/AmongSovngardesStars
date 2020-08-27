@@ -229,7 +229,10 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Lean Multiplier (3rd Person) : X0.25
 - Camera Nois (Preference) :
   - Camera Noise Mult (1st Person) : X0.00
-  
+Now a bit of preference stuff, if you're gonna use those features:
+- Unlocked grip : Set an Hotkey ( I use Y )
+- Dual Wield Blocking : Set an Hotkey (I dont use it)
+- 360 Combat : Set an Hotkey (I dont use it)
 
 #### Deadly Dragons
 - Dragons → Presets :
