@@ -18,6 +18,7 @@
 - zPatch errors
 - Campfire Textures
 - Multiple Black faces
+- Converted ESL plugins not ESL-ed after Wabbajack Installed them
 
 **Known Issue**: 
 - Drinking from stream will use a dodge animation > still looking to fix it.
