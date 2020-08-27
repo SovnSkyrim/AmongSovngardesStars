@@ -8,6 +8,10 @@
 - CGO
 - CGO Patches
 - Quiet Dog - Sit
+- Proudspire Manor Remodel - Bourgeois Apartment - SE
+
+**Removed**
+- Proudspire
 
 **Fixed**:
 - DynDOLOD Errors
