@@ -16,7 +16,7 @@
 - Multiple Black faces
 
 **Known Issue**: 
-- Drinking from stream will uses a dodge animation > still looking to fix it.
+- Drinking from stream will use a dodge animation > still looking to fix it.
 
 
 ## 0.4.0: Alignement to Lexy's LOTD 23rd of August Update + Lots of new stuff.
