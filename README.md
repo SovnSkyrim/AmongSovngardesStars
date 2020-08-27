@@ -214,6 +214,22 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Mining  and Materials → Firewood :
   - Firewood per chop : 6
   - Max per activation : 1
+  
+#### CGO
+- Unlocked Grip:
+  -NPCs Change Grip : Disabled
+- Dodge Roll :
+  -Input tap: Hotkey
+  -Hotkey : Esc (Default, dont change it, you're not gonna dodge with this mod)
+  -Enable iFrames : Disabled
+  -Dodge Costs Stamina : Disabled
+  -NPCs Dodge: Disabled
+- Leaning (Preference) :
+  -Lean Multiplier (1st Person) : X0.25
+  -Lean Multiplier (3rd Person) : X0.25
+- Camera Nois (Preference) :
+  -Camera Noise Mult (1st Person) : X0.00
+  
 
 #### Deadly Dragons
 - Dragons → Presets :
