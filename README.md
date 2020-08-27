@@ -408,9 +408,6 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
 
 #### Realistic Water Two
 - Mod Options → Blacksmith Forge Water :
-  - The Fall of Granite Hill : Enabled
-  - Kynesgrove : Enabled
-  - Rorikstead : Enabled
   - Expanded Towns and Cities SSE : Enabled
 
 #### SkyUI
