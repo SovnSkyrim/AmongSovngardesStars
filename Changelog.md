@@ -4,6 +4,25 @@
 
 **Notes** : Needs a new savefile.
 
+**Added**
+- JK's Interiors Patch Collection
+
+**Removed**
+- Skills of the Wild
+- Skills of the Wild - Patches
+
+**Fixed**:
+- Lots of problems around JK's Interiors mods
+- Dagri'Lon's hood
+- Some Lighting problems within Proudspire
+- Dear Diary not properly showing Frostfall UI
+
+## 0.4.1: Bug Fixes and CGO
+
+**Released at**: `27.08.2020`
+
+**Notes** : Needs a new savefile.
+
 **Added**:
 - CGO
 - CGO Patches
