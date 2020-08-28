@@ -18,6 +18,7 @@
 - Dagri'Lon's hood
 - Some Lighting problems within Proudspire
 - Dear Diary not properly showing Frostfall UI
+- Cleaned a bunch of old versions of mods that were cluttering the downloads folder
 
 ## 0.4.1: Bug Fixes and CGO
 
