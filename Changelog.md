@@ -1,6 +1,6 @@
-## 0.4.1: Bug Fixes and CGO
+## 0.4.2: Skills of the Wild Removal
 
-**Released at**: `27.08.2020`
+**Released at**: `28.08.2020`
 
 **Notes** : Needs a new savefile.
 
