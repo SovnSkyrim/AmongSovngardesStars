@@ -6,6 +6,8 @@
 
 **Added**
 - JK's Interiors Patch Collection
+- Console Commands Extender
+- New Game Plus
 
 **Removed**
 - Skills of the Wild
