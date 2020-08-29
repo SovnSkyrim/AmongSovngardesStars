@@ -525,12 +525,8 @@ Simply press G (or your swap dodge key) two times to reset it.
 
 Behavior of 360 Walk and Run Plus, just deactivate it in ModOrganizer2 if it bothers you, but your capes in game will clip through your feets.
 
-## My Mega.nz download dont work!
-
-Manually download the file you need and add it to your downloads folder.
- - [Among Sovngarde's Stars - DynDOLOD and xLODGEN.zip](https://mega.nz/file/NQlxGACY#5DeHfYZplyKKcuaQW1mARLnD2uSlrauH4sfVAQJOsX0)
- - [xLODGen.64.7z](https://mega.nz/file/VBJRFKAY#sm7YkovVCWczwnnNn4nmkV7PfHlkzQL67jAAUleZGng)
- - [Lexy's LOTD Replacer Files .7z](https://mega.nz/file/QZ91gajb#zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk)
+## My Mega.nz download dont work! / I can't download more from mega.nz!
+Go to the Discord, in the channel #Links and there will be mirrors for the files.
 
 ## Credits and Thanks
 
