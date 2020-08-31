@@ -17,6 +17,7 @@
 - Archery Gameplay Overhaul
 - SkyHUD Default Preset
 - SkyHUD Oblivion Preset
+- Realistic Animation Project - Movement
 
 **Removed**
 - Medieval Lanterns of Skyrim
