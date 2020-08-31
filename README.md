@@ -187,6 +187,13 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 - Presets :
   - Load User Settings
+
+#### AGO
+- Settings
+  - Enable/Disable
+    - Arrow Wounds (Player) : Disabled
+    - Arrow Wounds (NPCs) : Disabled
+    - Persistant Arrows : Disabled
     
 #### All Geared up Derivative
 - Misc. Player :
