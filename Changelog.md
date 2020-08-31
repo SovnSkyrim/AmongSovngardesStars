@@ -1,6 +1,6 @@
 ## 0.4.3: AllGUD/CGO
 
-**Released at**: `31.08.2020`
+**Released at**: `31.08.2020` - UNRELEASED
 
 **Notes** : Needs a new savefile.
 
