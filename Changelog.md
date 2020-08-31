@@ -1,4 +1,4 @@
-## 0.4.2: AllGUD/CGO
+## 0.4.3: AllGUD/CGO
 
 **Released at**: `31.08.2020`
 
