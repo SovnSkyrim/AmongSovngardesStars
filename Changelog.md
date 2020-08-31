@@ -1,3 +1,47 @@
+## 0.4.2: AllGUD/CGO
+
+**Released at**: `31.08.2020`
+
+**Notes** : Needs a new savefile.
+
+**Added**
+- Lanterns of Skyrim II With Tamriel Master Lights tailored for it.
+- Serana Unsquared
+- Toccata Elisif Replacer
+- SC Khajiit Improvements (for males)
+- Forgotten Argonian Roots (for males)
+- The Eyes of Beauty
+- The Eyes of Beauty - Elves Edition
+- Hallgarth's Additional (Vanilla) Hair SE
+- VIGILANT - Book Covers
+- Archery Gameplay Overhaul
+- SkyHUD Default Preset
+- SkyHUD Oblivion Preset
+
+**Removed**
+- Medieval Lanterns of Skyrim
+- Tamriel Master Lights Standalone
+- Eeekie's enhanced NPCs
+- Seranaholic
+- 360 Walk and Run Plus
+- PCA Arrow Attach Kit
+
+
+**Modifications**:
+- Re-made CGO Patch
+- Re-made MAS - Vanilla house Patch
+- Re-made NPC Retexture Merge  
+- Tweaked Undiscovered Means Unknown
+- Updated the Widescreen fixes for Dear Diary and added a 32:9 Option
+- Re-made YOT Patch merge
+- Re-made ToK Patches
+- Re-made Prebash
+- Re-made Bash Override
+- Re-made Bash Patch
+- Re-made zPatch
+- Re-made Firewood Piles Output
+- Re-made DynDOLOD
+
 ## 0.4.2: Skills of the Wild Removal
 
 **Released at**: `28.08.2020`
