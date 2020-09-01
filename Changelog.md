@@ -1,6 +1,14 @@
+
+## 0.4.3.1: NPC Merge
+
+**Released at**: `1.09.2020`
+
+**Modifications**: 
+- Remade the NPC Retexture merge from scratch, dependency on Lexy's Merge is now removed.
+
 ## 0.4.3: AllGUD/CGO
 
-**Released at**: `31.08.2020` - UNRELEASED
+**Released at**: `31.08.2020`
 
 **Notes** : Needs a new savefile.
 
