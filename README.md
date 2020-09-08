@@ -510,7 +510,7 @@ Simply step up to the statue of mara and choose a start.
 ## FAQ
 
 ### Ultrawide Options
-If you have an ultrawide monitor (21:9), the UI will be off. You just need to enable everything under the Separator "Activate this if you have a widescreen monitor" in MO2. [Those](http://prntscr.com/tvqeuf)
+If you have an ultrawide monitor (21:9 or 32:9), the UI will be off. You just need to enable "Dear Diary for (screen resolution)" under the Separator "Activate this if you have a widescreen monitor" in MO2. [Those](https://prnt.sc/udw0qv)
 
 ### Tweaking the Game Settings
 
