@@ -62,6 +62,7 @@ Open the Properties window (right click the game in your Library->Properties), n
 #### Steam Library
 
 If you have your steam library in program files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
+I will not provide support to people with Skyrim in their Program Files folder.
 
 #### Change Steams Update Behavior
 
