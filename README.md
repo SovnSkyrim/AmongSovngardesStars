@@ -107,7 +107,9 @@ The download and installation process can take a very long time depending on you
 
 1. Open Wabbajack
 2. Load _Among Sovngarde's Stars .wabbajack file_ from Disk
-3. Adjust the download and installation paths..
+3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Among Sovngarde's Stars".
+4. Select the created folder in 3. as your installation folder.
+5. The Download path should be set, if it isn't, set it in the installation folder like this : "Among Sovngarde's Stars\downloads"
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
 
