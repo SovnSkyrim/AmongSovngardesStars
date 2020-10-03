@@ -206,6 +206,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 #### All Geared up Derivative
 - Misc. Player :
   - Enable Misc. Item Display : Disabled
+  - Require Torso Armor : Enabled
 - NPC :
   - Enable Weapons : Enabled
   - Enable Misc. Item Display : Disabled
