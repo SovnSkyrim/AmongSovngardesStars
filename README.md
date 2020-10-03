@@ -426,6 +426,12 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
 - Mod Options → Blacksmith Forge Water :
   - Expanded Towns and Cities SSE : Enabled
 
+#### Sacrosanct 
+- Vampire
+  - Allow Regeneration in Shadows: Enabled
+- Vampire Spells, Powers and Abilities
+  - Vampiric Drain: Enable Reverse Progression: Enabled
+
 #### SkyUI
 - General → Item List :
   - Font Size : Small
