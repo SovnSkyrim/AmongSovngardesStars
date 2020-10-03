@@ -297,7 +297,7 @@ Now a bit of preference stuff, if you're gonna use those features:
   - Load From File
 
 #### Frostfall - IF YOU DO NOT WANT TO USE IT, ACTIVATE ONE TIME THEN DEACTIVATE MANUALLY, IT'LL HAVE A SHIT SCRIPT THAT MIGHT BLOAT YOUR SAVE IF YOU ONLY LEAVE IT DEACTIVATED
-**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
+**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
 
 - Overview → Frostfall Status :
   - Frostfall Is: Enabled (This will require you to exit and wait until you see the message "Done! Frostfall is enabled")
@@ -305,7 +305,7 @@ Now a bit of preference stuff, if you're gonna use those features:
   - Load Profile
   
 #### Hunterborn
-**Note : DO NOT ACTIVATE HUNTERBORN UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
+**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
 
 - Features :
   - Start Hunterborn
