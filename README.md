@@ -147,7 +147,6 @@ Obsidian Weathers:
 - [Skyrim Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 - [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
 - [Amon ENB Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/35141)
-- [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Ominous](https://www.nexusmods.com/skyrimspecialedition/mods/27333)
 - [Nyclix's ENB/ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/3352)
 
@@ -161,6 +160,7 @@ Cathedral Weathers:
 - [Semirealis](https://www.nexusmods.com/skyrimspecialedition/mods/25163)
 - [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
 - [Skyrim Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
+- [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
 - [ENBCo A comprehensive comparison](https://www.nexusmods.com/skyrimspecialedition/mods/35328/)
 
 
