@@ -296,20 +296,6 @@ Now a bit of preference stuff, if you're gonna use those features:
 - System :
   - Load From File
 
-#### Frostfall - IF YOU DO NOT WANT TO USE IT, ACTIVATE ONE TIME THEN DEACTIVATE MANUALLY, IT'LL HAVE A SHIT SCRIPT THAT MIGHT BLOAT YOUR SAVE IF YOU ONLY LEAVE IT DEACTIVATED
-**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
-
-- Overview → Frostfall Status :
-  - Frostfall Is: Enabled (This will require you to exit and wait until you see the message "Done! Frostfall is enabled")
-- Profiles → Settings Profiles :
-  - Load Profile
-  
-#### Hunterborn
-**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
-
-- Features :
-  - Start Hunterborn
-
 #### Immersive Armors
 - Armor Options → Distribution : 
   - Barbarian Hero Armor : Disabled
@@ -517,6 +503,20 @@ I also would recommend to use sidestep (personal preference)
 
 #### Wonders of Weathers
 - Rain Splashes : Disabled
+
+#### Frostfall - IF YOU DO NOT WANT TO USE IT, ACTIVATE ONE TIME THEN DEACTIVATE MANUALLY, IT'LL HAVE A SHIT SCRIPT THAT MIGHT BLOAT YOUR SAVE IF YOU ONLY LEAVE IT DEACTIVATED
+**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
+
+- Overview → Frostfall Status :
+  - Frostfall Is: Enabled (This will require you to exit and wait until you see the message "Done! Frostfall is enabled")
+- Profiles → Settings Profiles :
+  - Load Profile
+  
+#### Hunterborn
+**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
+
+- Features :
+  - Start Hunterborn
   
 ## Creating your Character
 
