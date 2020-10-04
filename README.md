@@ -570,9 +570,3 @@ See [Contributing](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Contrbut
 ## Changelog
 
 See [Changelog](https://github.com/SovnSkyrim/AmongSovngardesStars/blob/master/Changelog.md).
-
-#### FNIS Sexy Move
-	=Don't use certain NPC moves (max. 3): Uncheck No Sexy Move 1, Check No Sexy Move 7, 8, and 9
-	-Average Move assignments: Enable Less Sexy
-	-Armored NPC's less sexy: Enable
-	-Player Movement: Sexy Move 1 (Fmale Animation) Enable
