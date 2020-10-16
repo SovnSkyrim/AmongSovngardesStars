@@ -1,6 +1,6 @@
 ## 0.5.0 : VIGILANT Patch - Lots of QoL - Konahrik's Accoutrements - Mysticism - CGO Removal
 
-**Realeased at**: `Unreleased`
+**Realeased at**: `16/10/2020`
 
 **Notes** : Absolutely needs a new savefile
 
