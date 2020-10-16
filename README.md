@@ -564,9 +564,12 @@ Go to the Discord, in the channel #Links and there will be mirrors for the files
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Darkladylexy and her team - for creating this incredible guide and allowing me to create this fork.
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
-- Xanza specifically for constantly helping me and answering my questions whenever he can.
+- Xanza for being an awesome person overall, knowledgeable and more.
 - Lively for guiding me through early steps of compiling and understanding how WJ works.
-- Althro for being such a ressourceful person and helping for the Discord a lot.
+- Althro for being such a ressourceful person and helping for the Discord and development a lot.
+- ShadesofDawn for being incredible, amazing thought process and good suggestions overall.
+- Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
+- Minerva for all the good information on xEdit and the VIGILANT Patch cooperation.
 
 ## Contact
 
