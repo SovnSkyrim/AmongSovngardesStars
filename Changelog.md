@@ -1,3 +1,262 @@
+## 0.5.0 : VIGILANT Patch - Lots of QoL - Konahrik's Accoutrements - Mysticism - CGO Removal
+
+**Realeased at**: `Unreleased`
+
+**Notes** : Absolutely needs a new savefile
+
+**Added**
+
+Main Changes:
+- Konahrik Accoutrements
+- Konahrik Accoutrements - LotD Patch
+- Mysticism - A Magic Overhaul
+- Mysticism - A Magic Overhaul - Restored Master Spell Animations
+- Simple Bound Weapons Expansion
+- Legacy of the Dragonborn - Interesting NPCs Patch
+- Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-M'rissi)
+- Reliquary of Myth
+- Unique Items Tweaks
+- Growl 
+- Religious Shrines of Tamriel - Wintersun Addon (Requires Bone Colossus from Mihail but esp not included)
+- White River Watch - Revisited
+- Steepfall Burrow - Revisited
+- Ustengrav - Revisited
+- Embershard Mine - Revisited
+- Bleak Falls Barrow - Revisited
+- Halted Stream Camp - Revisited
+- A Cat's Life
+- VIGILANT SE Patched for SRCEO/KYE/MLU/FF/M'rissi/SkyrimSewers + Level Requirement and added crafting stations in Act 4
+- Clockwork Patched for SRCEO/KYE
+- Warmonger Armoury Patched for MLU/FF
+- Dawnguard Arsenal Patched for MLU
+- Forsworn Skinchangers
+- Forsworn Gravesingers
+- Saddlebags 
+- Simple Horse SE
+NPC Stuff
+- Serenaholic 1.8.2
+- Serenaholic Hood Plus Hair
+- Interesting NPCs - Visual Overhaul by Mocia
+- Cuyi's Bosmeri Antlers
+- Bosmer NPCs Have Antlers
+- BeastHHBB - Beast Hair Horn Beard and Brow
+- NPC AI Process Position Fix
+- Gentle Muiri
+- Mirai Replacer
+- Mirai Grows Up
+- Lamae's Gaze
+- High Poly Head
+- Inigo the Suave
+- Hvergelmir Brows for High Poly Head
+- High Poly Pretty Face Brows Stand Alone
+- Kalilies Brows
+- SG Female Eyebrows
+- SG Eyebrows - For High Poly Head
+- Smashin Face RELOAD
+Audio
+- Soulmancer Music Merge with Musical Lore, The Elder Songs, The Southerner Diaries and Bruma OST Add On
+- Enigma Series AIO 
+- Daedric Enigma + Patches for Wyrmstooth and VIGILANT 
+- Skeletons dont breath
+- Falmer Sounds - the Betrayal Legacy Edition
+- Bow Before The Dead - Draugr Sounds Legacy Edition
+- IHSS - Improved Horse Step Sounds
+- Barefoot Footstep Extended
+- Realistic Husky Sounds 
+- Soultrap Sound Edit - Calm Wind
+- Sounds of Barenziah
+- The Forgotten City - No Audiobooks
+- Better Animal footsteps
+Gameplay Changes
+- Take Notes
+- New Beginnings - Live Another Life Extension SSE
+- Equipment Durability System
+- Font Overhaul - Natural Typefaces for Skyrim (only for Books)
+- Lafreakshows Auto-Equip Best Arrows and Bolts
+- Disarming Traps Is Dangerous
+- Delphine's Map Reveals Dragon Mounds
+- Uninterrupted Ethereal Form
+- Uninterrupted Invisibility
+- Khajiit Steal Too - Caravan Fence Option
+- BlockSteal
+- Dwemer Gates Don't Reset
+- I'm a Customer Dammit
+- Hunters Not Bandits
+- Thugs Not Assassins
+- Alik'r Warriors Aren't Welcome
+- Windhelm Segregation - Stay at New Gnisis Cornerclub
+- Keeper Carcette Survives SSE
+- Werewolf Claws Affect Spider Webs
+- Incognito
+- Swift Services
+- No Crime Teleport
+- Accessible Argonian Ale
+- Farengar's Lucky Koi
+- Butterflies Land True
+- Karstaag - The Frost King Reborn
+- Glass Bow of the Stag Prince - Merchant Fix and Stronger Blessing
+- The Chest of the Caller and Her Story ReReleased
+- Chill Out Aela
+- Amulet Evangelism - Priests Sell Amulets
+Kids stuff
+- Hearthfire multiple adoptions 
+- Prince and the Pauper
+- More Gifts For Children
+- More Realistic Gifts For Children
+- Children Toys Elements of Skyrim
+- Dressed Hearthfire Doll - Decorative Dolls
+- Adopt Aventus Aretino
+- Realistic Elven Children (Aymar and friends reimagined)
+Animations
+- Undead summons emerge from the ground
+- Skyrim Horses Renewal SSE
+- DAR - Dynamic Swimming
+- Finally First Person Magic Animation
+- Diverse Random Normal Attack
+- Battleaxe Animation
+- Beasty Greatsword for SSE
+- 1stperson Parry Animation
+- FNIS Sexy Move
+Armors/Weapons
+- Animated Armoury
+- Animated Armoury - Legacy of Dragonborn Displays
+- Guards Armor Replacer by NordWarUA
+- Heavy Legion by NordWarUA
+- Believable weapons
+- Kozakowy's 1546 Elizabeth Tudor Gown UNP
+- Kozakowy's 1600 Isabella De Bourbon Court Gown UNP
+ - Nature Bow
+- DX Druid Armor
+- Druid Backpack (Mihail Armors and Clothes)
+- Stormlord and Hevno Dovah
+- Ulag's Legacy
+- Apachii Divine Elegance Store (stripped of everything but it's armors)
+- Dragonblade AQ by Johnskyrim (Unique and Unplayable, only for Recorder)
+- Master Sword (Unique and Unplayable, only for Recorder)
+Houses
+- Proudspire Marketplace
+- Clockwork Plantable Addon
+Textures
+- Legacy of the Dragonborn - Cleaner Display Glass
+- Water for ENB
+- Vibrant weapons - Fire Frost Shock
+- Alduin's Imprefvicticious
+- Durnehviir Resurrected
+- ShadowmereReplace (Ruddy88)
+- SC - Horses
+- HD Reworked Bears 4K
+- Fluffy Snow
+- Glacierslab
+- Ingredients
+- SPECTRE - The Ultimate Ghost Appearance Enhancement
+- Vanilla And Morning Fogs SSE - Easy Seam Fixer
+- Qwafee's Flagon
+- Basic Dining Set Replacer
+- Sacred Trees
+- 4K Torture Rack
+- Gorgeous Glazed items
+- Vanilla Table Replacers
+- 3D Snowberries
+- Mountain flower by Mari
+- Thistle by Mari
+- Lavender by Mari
+- Nirnroot by Mari
+- Ivy by Mari
+- Deathbell by Mari
+- Dragons tongue by Mari
+- Spiky grass by Mari
+- Tundra cotton by Mari
+- Nightshade by Mari
+- OH GOD BEES
+- Real Bows
+- The Revamped Quiver
+- Nightingale Pride - Bow and Blade Reincarnation
+- ElSopa Big Backpack
+- Jabber's 2K Archery Targets
+- SD's Horn Candles SE
+- Rally's Blackreach Mushrooms
+- Butterflies Unchained
+- Glorious Dummies
+- JS Lockpicking UI SE
+- Jebbalon's Lava Column Correction - Aetherium Forge
+- Volcanic Tundra - Heat Wave effects
+- Constellations Redrawn
+- Constellations Retextured DLCs
+- Magic Runes HD
+- Lind's Black Robes Revamp
+- Lind's Vaermina Robes Revamp
+- Lind's Green Wizard Robes Revamp
+- Lind's Brown Robes Revamp
+- Lind's Court Wizard Robes Revamp
+- Lind's Monk Robes Revamp
+- Lind's Red Robes Revamp
+- Lind's Necromancer Robes Revamp
+- Lind's Grey Wizard Robes Revamp
+- Opulent Robe Retexture SE
+- Rudy HQ - Standing Stones SE
+- Rudy HQ - More Lights for ENB SE - Soul Gems
+- Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
+- ENB Light
+- ENB Particle Lights - Dwemer Lanterns
+- Real Rabbits HD
+- Metallurgy - Ingots Ore and Veins HD
+- Skygazer Moons SSE - Masser and Secunda HD Textures
+- TESL Loading Screens - Tweaks and Addons
+- Dark Souls style bonfire for Chesko's Campfire
+- Thrones of Skyrim
+- Precise Main Menu Wallpaper Mesh
+
+**Removed**:
+- Hammet's Dungeon Pack
+- Moonlight Tales
+- Serana Unsquared
+- CGO
+- Convenient Horses (Replaced by Saddlebags and Simple Horse)
+- Lawbringer (Except for Serenity / Valtheim)
+- Halted Stream Mine
+- Immersive Armors - And it's LotD patch
+- Proudspire Bourgeois
+- Leijona 
+- Dovahbear
+- Nemain
+- Nerida
+- Play Random Idle
+- Realistic Animation Project - Idles (only for females, temporarily)
+- Improved Follower Dialogue - Lydia
+- Chappers Demonic Alduin Mashup
+- aMidianBorn Buildings and Landscapes SE
+- EASIER LOCKPICKING - Without Cheating - Nordic Retexture
+
+- Map markers that are initially on for Auri's Pod, DarkenD's quest and Mindrot's Rest
+- Vanilla Start (Helgen) from LAL + Some bugged ones
+
+**Updated**:
+- Ordinator
+- OMEGA Updated AIO
+- Legacy of the Dragonborn
+- Legacy of the Dragonborn Official Patches
+- Legacy of the Dragonborn - The Curator's Companion
+- Racemenu
+- Triumvirate
+- Imperious
+- Oblivion Artifacts SSE
+- Serana Dialogue Addon
+- cookeh's conditional and random animations 
+- MoreHUD Inventory Edition swapped to Loose version (from ESL version)
+- RUSTIC FROSTBITE SPIDERS - Desaturated .dds by Eeekie
+- Paper UI Sounds
+- Widget Addon - Keep It Clean - Bathing In Skyrim - Dirt and Blood
+- JK's Interiors Patch Collection
+- SSE Display Tweaks
+- Skyrim Particle Patch for ENB
+- Display Spell Tome Level - Magic Mod Add-ons
+- Display Spell Scroll Level
+- Rudy HQ - More Lights for ENB SE - Bthardamz
+- Rudy HQ - More Lights for ENB SE - Deathbells and Nirnroots
+- Rudy HQ - More Lights for ENB SE - Moths
+- Valerica's Replacer (Seranaholic)
+- tweaked Skyrim Skill Interface Re-Texture
+- Dragon Priests masks for Liches should work
 
 ## 0.4.3.1: NPC Merge
 
