@@ -234,7 +234,6 @@ Textures
 - Chappers Demonic Alduin Mashup
 - aMidianBorn Buildings and Landscapes SE
 - EASIER LOCKPICKING - Without Cheating - Nordic Retexture
-
 - Map markers that are initially on for Auri's Pod, DarkenD's quest and Mindrot's Rest
 - Vanilla Start (Helgen) from LAL + Some bugged ones
 
