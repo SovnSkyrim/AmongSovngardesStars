@@ -35,8 +35,8 @@
 
 # Preamble
 
-Among Sovngarde's Stars is a Wabbajack list created on top of Lexy's LOTD for Special Edition List, it aims to grow into it's own thing.
-It uses Lexy's 23rd of August's and adds a lot of new stuff like followers, new lands, combat additions, new loots, playerhomes, Campfire addons, Keep it Clean addons, Hunterborn, Warmonger Armory, Wintersun, AllGUD and many more!
+Based on Lexy’s LOTD, this list improves, in every aspect, areas which the base doesn’t touch. Focusing on expanding the mechanics, worldspace and roleplaying, we use needs mods including Frostfall/RND/Campfire/Keep It Clean, as well as the full EnaiRim suite and many land mods including VIGILANT and Undeath. Many animations have been changed, player homes and followers added, hunting and religion are core to gameplay, and you even have the ability to change your weather mod between Obsidian, Cathedral and Vivid Weathers. Join the discord or check the GitHub post for more information.
+
 Check the [Changelog](https://github.com/SovnSkyrim/AmongSovngardesStars/blob/master/Changelog.md) to see exactly the changes!
 
 **Under no circumstances should you be bothering her or her team with issues for this list.**
@@ -191,6 +191,9 @@ Look at the drop menu on top of the right panel and next to "Profile" in MO2, yo
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
+#### Game Difficulty
+- Set the game difficulty to Adept if you want a normal experience, if you want some challenge, put Expert instead. Whenever you feel like you're too strong, don't hesitate putting it higher.
+
 #### A Matter of Time
 
 - Presets :
@@ -199,6 +202,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 #### AGO
 - Settings
   - Enable/Disable
+    - Bow Camera : Disabled (Also disables Bow Crosshair)
     - Arrow Wounds (Player) : Disabled
     - Arrow Wounds (NPCs) : Disabled
     - Persistant Arrows : Disabled
@@ -210,6 +214,10 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - NPC :
   - Enable Weapons : Enabled
   - Enable Misc. Item Display : Disabled
+
+#### Animated Armoury
+- General Settings
+  - Enable DAR SUpport : Enabled
 
 #### Complete Crafting
 - Recipe Display → Crafting Menu Filters :
@@ -230,25 +238,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Mining  and Materials → Firewood :
   - Firewood per chop : 6
   - Max per activation : 1
-  
-#### CGO
-- Unlocked Grip:
-  - NPCs Change Grip : Disabled
-- Dodge Roll :
-  - Input tap: Hotkey
-  - Hotkey : Esc (Default, dont change it, you're not gonna dodge with this mod)
-  - Enable iFrames : Disabled
-  - Dodge Costs Stamina : Disabled
-  - NPCs Dodge: Disabled
-- Leaning (Preference) :
-  - Lean Multiplier (1st Person) : X0.25
-  - Lean Multiplier (3rd Person) : X0.25
-- Camera Nois (Preference) :
-  - Camera Noise Mult (1st Person) : X0.00
-Now a bit of preference stuff, if you're gonna use those features:
-- Unlocked grip : Set an Hotkey ( I use Y )
-- Dual Wield Blocking : Set an Hotkey (I dont use it)
-- 360 Combat : Set an Hotkey (I dont use it)
 
 #### Deadly Dragons
 - Dragons → Presets :
@@ -291,23 +280,32 @@ Now a bit of preference stuff, if you're gonna use those features:
 - Mod Support → Mod Compatibility :
   - Expanded Towns and Cities : Enabled
 
+#### FNIS Sexy Move
+- Don't use certain NPC Moves (Max. 3)
+  - No Sexy Move 1 : Disabled
+  - No Sexy Move 7 : Enabled
+  - No Sexy Move 8 : Enabled
+  - No Sexy Move 9 : Enabled
+- Player Movement :
+  - Sexy Move 1 (female animation) : Enabled
+- Average Move Assignments
+  - less sexy : Enabled
+- Armored NPCs less sexy : Enabled
+
 #### Follower Framework
-
 - System :
-  - Load From File
+  - Load From File 
 
-#### Immersive Armors
-- Armor Options → Distribution : 
-  - Barbarian Hero Armor : Disabled
+#### Growl Werebeasts 
+- Features
+  - Invulnerable During Transformation: Enabled
+- If you want to be a Werebear instead:
+  - Immersion : Werebear : Enabled
 
-- Extra Options → Special Distribution Options :
-  - Varied Guard Helmets : Disabled
-  
-**Note : Exit the MCM and wait for it to say  "Immersivie Armors Configuration has Finished". Takes about 30 seconds**
-
-#### Imperious
-- Nothing is really important, you can toggle stuff depending on your Race tho!
-Reminder that you can't switch race/sex using Showracemenu because of such a mod!
+#### I'm a Customer
+- Food
+  - Eating Location : At Home Only
+  - Infinite Food : Nowhere
 
 #### Immersive Creatures
 - General → General : 
@@ -324,6 +322,10 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
   - Assign Global Difficulty: Adept
 - Difficulty Adjustments → Creature Spawn Difficulty : 
   - Additional Spawns : Medium
+
+#### Imperious Racials
+- Nothing is really important, you can toggle stuff depending on your Race tho!
+Reminder that you can't switch race/sex using Showracemenu because of such a mod!
 
 #### Keep It Clean - CAN REMAIN DEACTIVATED IF YOU DO NOT LIKE SURVIVAL ASPECTS
 - Settings → Parameters :
@@ -354,11 +356,6 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
   - Carriages: Enabled
   - Inns: Enabled
   - Player Houses: Enabled (They have been changed so you might want to report problems with that)
-
-#### Moonlight Tales (Preferences)
-- General : 
-- Appearance : 
-  - Werewolf Appearance: Alpha (Black with Red Eyes)
 
 #### moreHUD (mostly preferences, I play with this)
 
@@ -418,6 +415,10 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
 - Vampire Spells, Powers and Abilities
   - Vampiric Drain: Enable Reverse Progression: Enabled
 
+#### Simple Horse
+- Call Horse Key : Set yours (H by default)
+- Followers Ride : Enabled
+
 #### SkyUI
 - General → Item List :
   - Font Size : Small
@@ -430,11 +431,20 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
   - Container Menu : Disabled
   - Crafting Menu : Disabled
 
+#### SmoothCam 
+- Presets
+  - Load Preset
+    - Slot 1 Perfect
+
 #### Storm Lightning
 - Preset → Load Preset : 
   - Realistic : Enabled
 - Settings → Fork Lightning : 
   - Minimum Fork Distance : 1
+
+#### Take Notes!
+- Controls
+  - Set your controls if you wish to use it, if you don't want to use it, put them far away from your main controls.  
   
 #### Tentapalooza
 - Set all tents from "No Protection" to "Rain & Snow"
@@ -492,7 +502,7 @@ I also would recommend to use sidestep (personal preference)
   - HP Mult : HP 1.0
   
 #### VIGILANT
- - No tweak here, you can manually adjust the difficulty if you find the mod too easy. Just note that this is a LATE GAME QUEST. It'd make much more sense if you do it after the Dawnguard questline and the House of Horrors (dw trust me, makes much more sense RP wise). Some areas WILL trap you in some places, I'm looking for a fix, but you should deactivate the needs in those cells. 
+ - No tweak here, you can manually adjust the difficulty if you find the mod too easy. It has been heavily modified by Minerva and I, the first act is for level 10 players and onwards and act 2 and onwards for level 30 players and onwards. 
   
 #### VioLens
 - Load Preset
@@ -543,9 +553,8 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 Simply press G (or your swap dodge key) two times to reset it.
 
-## I'm moving backward like a fucking snail!
-
-Behavior of 360 Walk and Run Plus, just deactivate it in ModOrganizer2 if it bothers you, but your capes in game will clip through your feets.
+## I'm using a gamepad please help me!
+Go to the Discord, we have a gamepad guide for you.
 
 ## My Mega.nz download dont work! / I can't download more from mega.nz!
 Go to the Discord, in the channel #Links and there will be mirrors for the files.
