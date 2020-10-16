@@ -33,6 +33,7 @@ Main Changes:
 - Forsworn Gravesingers
 - Saddlebags 
 - Simple Horse SE
+
 NPC Stuff
 - Serenaholic 1.8.2
 - Serenaholic Hood Plus Hair
@@ -53,6 +54,7 @@ NPC Stuff
 - SG Female Eyebrows
 - SG Eyebrows - For High Poly Head
 - Smashin Face RELOAD
+
 Audio
 - Soulmancer Music Merge with Musical Lore, The Elder Songs, The Southerner Diaries and Bruma OST Add On
 - Enigma Series AIO 
@@ -67,6 +69,7 @@ Audio
 - Sounds of Barenziah
 - The Forgotten City - No Audiobooks
 - Better Animal footsteps
+
 Gameplay Changes
 - Take Notes
 - New Beginnings - Live Another Life Extension SSE
@@ -98,6 +101,7 @@ Gameplay Changes
 - The Chest of the Caller and Her Story ReReleased
 - Chill Out Aela
 - Amulet Evangelism - Priests Sell Amulets
+
 Kids stuff
 - Hearthfire multiple adoptions 
 - Prince and the Pauper
@@ -107,6 +111,7 @@ Kids stuff
 - Dressed Hearthfire Doll - Decorative Dolls
 - Adopt Aventus Aretino
 - Realistic Elven Children (Aymar and friends reimagined)
+
 Animations
 - Undead summons emerge from the ground
 - Skyrim Horses Renewal SSE
@@ -117,6 +122,7 @@ Animations
 - Beasty Greatsword for SSE
 - 1stperson Parry Animation
 - FNIS Sexy Move
+
 Armors/Weapons
 - Animated Armoury
 - Animated Armoury - Legacy of Dragonborn Displays
@@ -133,9 +139,11 @@ Armors/Weapons
 - Apachii Divine Elegance Store (stripped of everything but it's armors)
 - Dragonblade AQ by Johnskyrim (Unique and Unplayable, only for Recorder)
 - Master Sword (Unique and Unplayable, only for Recorder)
+
 Houses
 - Proudspire Marketplace
 - Clockwork Plantable Addon
+
 Textures
 - Legacy of the Dragonborn - Cleaner Display Glass
 - Water for ENB
