@@ -233,6 +233,7 @@ Textures
 - Realistic Animation Project - Idles (only for females, temporarily)
 - Improved Follower Dialogue - Lydia
 - 3PCO
+- Marry Me Serana (Obsolete with the Serana Dialogue Addon Update)
 - Chappers Demonic Alduin Mashup
 - aMidianBorn Buildings and Landscapes SE
 - EASIER LOCKPICKING - Without Cheating - Nordic Retexture
