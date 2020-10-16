@@ -549,6 +549,9 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
+## How do I use High Poly Head????
+Under face part in Racemenu.
+
 ## My character is blocked in the air when trying to dodge!
 
 Simply press G (or your swap dodge key) two times to reset it.
