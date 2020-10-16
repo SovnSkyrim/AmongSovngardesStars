@@ -76,6 +76,7 @@ Gameplay Changes
 - Equipment Durability System
 - Font Overhaul - Natural Typefaces for Skyrim (only for Books)
 - Lafreakshows Auto-Equip Best Arrows and Bolts
+- SmoothCam + Dark Souls Preset
 - Disarming Traps Is Dangerous
 - Delphine's Map Reveals Dragon Mounds
 - Uninterrupted Ethereal Form
@@ -231,6 +232,7 @@ Textures
 - Play Random Idle
 - Realistic Animation Project - Idles (only for females, temporarily)
 - Improved Follower Dialogue - Lydia
+- 3PCO
 - Chappers Demonic Alduin Mashup
 - aMidianBorn Buildings and Landscapes SE
 - EASIER LOCKPICKING - Without Cheating - Nordic Retexture
