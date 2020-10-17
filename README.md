@@ -431,10 +431,11 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
   - Container Menu : Disabled
   - Crafting Menu : Disabled
 
-#### SmoothCam 
+#### SmoothCam  -for 3rd person players-
 - Presets
   - Load Preset
     - Slot 1 Perfect
+    This preset might not be the best for you, don't hesitate tweaking the numerous options of that mod if you wish to use it to it's full potential
 
 #### Storm Lightning
 - Preset → Load Preset : 
