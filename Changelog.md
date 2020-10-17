@@ -1,3 +1,36 @@
+## 0.5.1 : High Poly Overhaul + Bugfixes
+
+**Released at**: `Unreleased`
+
+**Notes** : Save Compatible
+
+**Added** :
+- High Poly NPC Overhaul - Skyrim Special Edition (replaces WICO in most cases, doesn't overwrite already changed NPCs)
+- High Poly NPC Overhaul - Alternate Start Live Another Life (ASLAL)
+- High Poly NPC Overhaul - Carriage and Ferry Travel Overhaul (CFTO)
+- High Poly NPC Overhaul - Cutting Room Floor
+- High Poly NPC Overhaul - Obscure's College of Winterhold
+- High Poly NPC Overhaul - Organized Bandits In Skyrim Special Edition (OBIS SE)
+- High Poly NPCs - Beyond Reach
+- High Poly NPCs - Books of Skyrim
+- High Poly NPCs - Clockwork
+- High Poly NPCs - Falskaar
+- High Poly NPCs - Immersive Patrols
+- High Poly NPCs - M'rissi
+- High Poly NPCs - Moon And Star
+- High Poly NPCs - Skyrim Sewers 4
+- High Poly NPCs - The Gray Cowl of Nocturnal
+- High Poly NPCs - The Tools of Kagrenac
+- High Poly NPCs - Undeath
+- High Poly NPCs - Unslaad
+- High Poly NPCs - Wintersun
+- High Poly NPCs - Wyrmstooth
+
+**Fixes** :
+- Dragon Priests Masks not working
+- Bfb on Brelyna/Eola
+- Neck seam on Mirai
+
 ## 0.5.0 : VIGILANT Patch - Lots of QoL - Konahrik's Accoutrements - Mysticism - CGO Removal
 
 **Realeased at**: `16/10/2020`
