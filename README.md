@@ -383,6 +383,9 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
 - Other :
   - No Negotiations : Enabled
 
+#### OBIS
+- Don't touch it, enabling it will result only in additional spawns which is already handled by OMEGA
+
 #### OBIS - Patrols
 - Settings → Bandit Patrols :
   - Enable? : Enabled
