@@ -1,6 +1,6 @@
 ## 0.5.1 : High Poly Overhaul + Bugfixes
 
-**Released at**: `Unreleased`
+**Released at**: `17/10/2020`
 
 **Notes** : Save Compatible
 
