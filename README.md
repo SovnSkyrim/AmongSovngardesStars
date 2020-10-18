@@ -329,9 +329,9 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
 
 #### Keep It Clean - CAN REMAIN DEACTIVATED IF YOU DO NOT LIKE SURVIVAL ASPECTS
 - Settings → Parameters :
-  - Soap Buff Duration : 9
-  - Duration before becoming Dirty : 48
-  - Duration before becoming Very Dirty : 72
+  - Soap Buff Duration : 12
+  - Duration before becoming Dirty : 24
+  - Duration before becoming Very Dirty : 48
 - Settings → Toggles :
   - Start Keep It Clean: Enabled
   
