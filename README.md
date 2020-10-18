@@ -527,7 +527,7 @@ I also would recommend to use sidestep (personal preference)
   - Load Profile
   
 #### Hunterborn
-**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
+**Note : DO NOT ACTIVATE HUNTERBORN UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
 
 - Features :
   - Start Hunterborn
