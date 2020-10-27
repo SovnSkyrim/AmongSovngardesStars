@@ -12,7 +12,6 @@
 **Updated** :
 - Nether's Follower Framework
 - Ethereal Clouds
-- Undeath
 
 **Fixes** :
 - Miraak Temple issues
