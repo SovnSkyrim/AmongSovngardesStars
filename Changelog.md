@@ -2,11 +2,12 @@
 
 **Released at**: `Unreleased`
 
-**Notes** : This update is a maintenence update compiled by Althro to help get the list back online and fix a few more bugs that cropped up. No more additions will be made to this version aside from bug-fixes as and where needed.
+**Notes** : This update is a maintenence update compiled by Althro to help get the list back online and fix a few more bugs that cropped up. No more additions will be made to this version aside from bug-fixes as and where needed. Should be Save compatible
 
 **Removed** : 
 - Bijin AIO 2020 (Mod has been hidden)
-- EVG Animation Variance
+- Bijin Optimized Mesh Ressource
+- EVG Animation Variance (causes skeleton.nif crashes when used alongside AllGUD)
 
 **Updated** :
 - Nether's Follower Framework
