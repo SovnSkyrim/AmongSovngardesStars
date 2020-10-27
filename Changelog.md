@@ -1,4 +1,4 @@
-## 0.5.1.1 : Bugfixes + Updates
+## 0.5.2 : Bugfixes + Updates
 
 **Released at**: `Unreleased`
 
