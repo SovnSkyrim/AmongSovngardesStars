@@ -1,6 +1,6 @@
 ## 0.5.2 : Bugfixes + Updates
 
-**Released at**: `Unreleased`
+**Released at**: `27/10/2020`
 
 **Notes** : This update is a maintenence update compiled by Althro to help get the list back online and fix a few more bugs that cropped up. No more additions will be made to this version aside from bug-fixes as and where needed. Should be Save compatible
 
