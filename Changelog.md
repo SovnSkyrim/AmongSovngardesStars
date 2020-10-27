@@ -1,3 +1,30 @@
+## 0.5.1.1 : Bugfixes + Updates
+
+**Released at**: `Unreleased`
+
+**Notes** : This update is a maintenence update compiled by Althro to help get the list back online and fix a few more bugs that cropped up. No more additions will be made to this version aside from bug-fixes as and where needed.
+
+**Removed** : 
+- Bijin AIO 2020 (Mod has been hidden)
+- EVG Animation Variance
+
+**Updated** :
+- Nether's Follower Framework
+- Ethereal Clouds
+- Undeath
+
+**Fixes** :
+- Miraak Temple issues
+- Enchantments not displaying on certain items
+- Frea Eyes
+- Issue with the supply chest's next button in LotD
+- Issues between Wayshrines of Skyrim and Tools of Kagrenac
+- KYA descriptions displaying instead of enchantments
+
+**Tweaks**
+- Swapped SmoothCam version to hopefully curb the empty crashlogs
+- Rebuilt NPC merge without Bijin AIO
+
 ## 0.5.1 : High Poly Overhaul + Bugfixes
 
 **Released at**: `17/10/2020`
