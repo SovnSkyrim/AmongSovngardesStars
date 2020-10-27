@@ -37,7 +37,7 @@
 
 Based on Lexy's LOTD, this list changes/adds a lot of areas the base doesn't touch. Focusing on expanding the mechanics, worldspace and roleplaying, we use needs mods including Frostfall/RND/Campfire/Keep It Clean, as well as the full EnaiRim suite and many land mods including VIGILANT and Undeath. Many animations have been changed, player homes and followers added, hunting and religion are core to gameplay. Weather options include Obsidian, Cathedral and Vivid Weathers. Join the discord or check the GitHub post for more information.
 
-Check the [Changelog](https://github.com/SovnSkyrim/AmongSovngardesStars/blob/master/Changelog.md) to see exactly the changes!
+Check the [Changelog](https://github.com/SovnSkyrim/AmongSovngardesStars/blob/master/Changelog.md) to see all the changes!
 
 **Under no circumstances should you be bothering her or her team with issues for this list.**
 Instead come in the discord I made for everything around the list! https://discord.gg/ZgjVrXp
@@ -78,7 +78,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the Shredder: https://www.nexusmods.com/skyrimspecialedition/mods/30133
 
 #### Start Skyrim
 
@@ -106,7 +106,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Load _Among Sovngarde's Stars .wabbajack file_ from Disk
+2. Load _Among Sovngarde's Stars.wabbajack file_ from Disk
 3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Among Sovngarde's Stars".
 4. Select the created folder in 3. as your installation folder.
 5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
@@ -140,7 +140,7 @@ Copy the all of the files from the `MO2/Game Folder Files` directory into your g
 
 #### Getting an ENB
 
-This list uses **OBSIDIAN WEATHERS OR VIVID WEATHERS DEPENDING ON THE PROFILE YOU'RE USING** so you want to get an ENB that is compatible. Here is a list of ENBs that I can recommend
+This list uses **OBSIDIAN WEATHERS, CATHEDRAL WEATHERS OR VIVID WEATHERS DEPENDING ON THE PROFILE YOU'RE USING** so you want to get an ENB that is compatible. Here is a list of ENBs that I can recommend
 
 Obsidian Weathers:
 
@@ -162,7 +162,6 @@ Cathedral Weathers:
 - [Skyrim Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 - [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
 - [ENBCo A comprehensive comparison](https://www.nexusmods.com/skyrimspecialedition/mods/35328/)
-
 
 Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory. 
 
@@ -351,7 +350,7 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
   - Enable Unlock Spell : Enabled
   - Frost effect Required Skill malus: -0
   
-  #### LOTD Settings
+#### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
   - Carriages: Enabled
   - Inns: Enabled
@@ -518,7 +517,7 @@ I also would recommend to use sidestep (personal preference)
 #### Wonders of Weathers
 - Rain Splashes : Disabled
 
-#### Frostfall - IF YOU DO NOT WANT TO USE IT, ACTIVATE ONE TIME THEN DEACTIVATE MANUALLY, IT'LL HAVE A SHIT SCRIPT THAT MIGHT BLOAT YOUR SAVE IF YOU ONLY LEAVE IT DEACTIVATED
+#### Frostfall - IF YOU DO NOT WANT TO USE IT, ACTIVATE ONE TIME THEN DEACTIVATE MANUALLY, IT HAS A SCRIPT THAT MIGHT BLOAT YOUR SAVE IF YOU ONLY LEAVE IT DEACTIVATED
 **Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
 
 - Overview → Frostfall Status :
@@ -549,18 +548,20 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 - `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
+If you have less than 6GB of VRAM, there is an alternative DynDOLOD and TexGEN output, without 3D tree lods, available in the discord. Follow the instructions to swap to the alternate.
+
 ## Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
-## How do I use High Poly Head????
+## How do I use High Poly Head?
 Under face part in Racemenu.
 
 ## My character is blocked in the air when trying to dodge!
 
 Simply press G (or your swap dodge key) two times to reset it.
 
-## I'm using a gamepad please help me!
+## I'm using a gamepad, please help me!
 Go to the Discord, we have a gamepad guide for you.
 
 ## My Mega.nz download dont work! / I can't download more from mega.nz!
@@ -573,7 +574,7 @@ Go to the Discord, in the channel #Links and there will be mirrors for the files
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Xanza for being an awesome person overall, knowledgeable and more.
 - Lively for guiding me through early steps of compiling and understanding how WJ works.
-- Althro for being such a ressourceful person and helping for the Discord and development a lot.
+- Althro for being such a resourceful person and helping for the Discord and development a lot.
 - ShadesofDawn for being incredible, amazing thought process and good suggestions overall.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
 - Minerva for all the good information on xEdit and the VIGILANT Patch cooperation.
