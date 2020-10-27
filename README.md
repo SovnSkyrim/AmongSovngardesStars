@@ -216,7 +216,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 #### Animated Armoury
 - General Settings
-  - Enable DAR SUpport : Enabled
+  - Enable DAR Support : Enabled
 
 #### Complete Crafting
 - Recipe Display → Crafting Menu Filters :
