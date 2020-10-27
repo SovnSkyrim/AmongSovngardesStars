@@ -6,7 +6,7 @@
 
 **Removed** : 
 - Bijin AIO 2020 (Mod has been hidden)
-- Bijin Optimized Mesh Ressource
+- Bijin Optimized Mesh Ressource (Mod has been hidden)
 - EVG Animation Variance (causes skeleton.nif crashes when used alongside AllGUD)
 
 **Updated** :
