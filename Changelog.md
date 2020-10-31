@@ -11,8 +11,6 @@
 **Removed** :
 
 - To Your Face (Incompatible with latest SKSE)
-- Rayek's End
-- Rayek's End Hearthfire Multiple Adoptions Support
 - Rayek's End Dreadful Tweaks 2020
 
 **Updated** :
@@ -22,7 +20,7 @@
 
 **Fixes** :
 - Remade the revisited series merge with fixed lighting.
-- Remade new player homes merge without Rayek's end.
+- Remade new player homes merge without Rayek's end tweaks (mod is hidden)
 - Fixed guards having orchish axe of healing.
 - BFB in Clockwork and Moon and star.
 
