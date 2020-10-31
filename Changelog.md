@@ -1,6 +1,6 @@
 ## 0.5.3 : More Fixes + Updates
 
-**Released at**: `Unreleased`
+**Released at**: `31/10/2020`
 
 **Notes** : This update is mostly bugfixes that weren't caught in the previous update along with a few mod updates and removal of mods that have been hidden. **SHOULD** be save compatible.
 
