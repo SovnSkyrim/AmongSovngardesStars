@@ -2,7 +2,7 @@
 
 **Released at**: `Unreleased`
 
-**Notes** : This update is mostly bugfixes that weren't caught in the previous update along with a few mod updates and removal of mods that have been hidden. SHOULD BE SAVE FILE COMPATIBLE.
+**Notes** : This update is mostly bugfixes that weren't caught in the previous update along with a few mod updates and removal of mods that have been hidden. **SHOULD be save compatible.
 
 **Added** :
 
