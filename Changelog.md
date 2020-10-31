@@ -23,7 +23,7 @@
 **Fixes** :
 - Remade the revisited series merge with fixed lighting. There is potentially still an issue with Bleak Falls, this is continuing to be investigated by the dev team.
 - Remade new player homes merge without Rayek's end tweaks.
-- Fixed guards having orchish axe of healing.
+- Fixed guards having orcish axe of healing.
 - BFB in Clockwork and Moon and star.
 
 ## 0.5.2 : Bugfixes + Updates
