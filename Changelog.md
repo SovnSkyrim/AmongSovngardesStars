@@ -1,3 +1,31 @@
+## 0.5.3 : More Fixes + Updates
+
+**Released at**: `Unreleased`
+
+**Notes** : This update is mostly bugfixes that weren't caught in the previous update along with a few mod updates and removal of mods that have been hidden.
+
+**Added** :
+
+- NO NPC Greetings (added to replace out of date skse plugin)
+
+**Removed** :
+
+- To Your Face (Incompatible with latest SKSE)
+- Rayek's End
+- Rayek's End Hearthfire Multiple Adoptions Support
+- Rayek's End Dreadful Tweaks 2020
+
+**Updated** :
+- SKSE64
+- SKSE Scripts
+- .net Script Framework
+
+**Fixes** :
+- Remade the revisited series merge with fixed lighting.
+- Remade new player homes merge without Rayek's end.
+- Fixed guards having orchish axe of healing.
+- BFB in Clockwork and Moon and star.
+
 ## 0.5.2 : Bugfixes + Updates
 
 **Released at**: `27/10/2020`
