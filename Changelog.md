@@ -2,16 +2,18 @@
 
 **Released at**: `Unreleased`
 
-**Notes** : This update is mostly bugfixes that weren't caught in the previous update along with a few mod updates and removal of mods that have been hidden.
+**Notes** : This update is mostly bugfixes that weren't caught in the previous update along with a few mod updates and removal of mods that have been hidden. SHOULD BE SAVE FILE COMPATIBLE.
 
 **Added** :
 
-- NO NPC Greetings (added to replace out of date skse plugin)
+- NO NPC Greetings (added to replace out of date SKSE plugin)
+- Version name seperator (this does nothing and is just to list what version you are running)
 
 **Removed** :
 
 - To Your Face (Incompatible with latest SKSE)
-- Rayek's End Dreadful Tweaks 2020
+- Rayek's End Dreadful Tweaks 2020 (Mod is hidden)
+- The Ultimate Dodge Mod Reanimated (Mod is hidden)
 
 **Updated** :
 - SKSE64
@@ -19,8 +21,8 @@
 - .net Script Framework
 
 **Fixes** :
-- Remade the revisited series merge with fixed lighting.
-- Remade new player homes merge without Rayek's end tweaks (mod is hidden)
+- Remade the revisited series merge with fixed lighting. There is potentially still an issue with Bleak Falls, this is continuing to be investigated by the dev team.
+- Remade new player homes merge without Rayek's end tweaks.
 - Fixed guards having orchish axe of healing.
 - BFB in Clockwork and Moon and star.
 
