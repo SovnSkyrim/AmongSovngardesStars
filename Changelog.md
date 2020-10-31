@@ -2,7 +2,7 @@
 
 **Released at**: `31/10/2020`
 
-**Notes** : This update is mostly bugfixes that weren't caught in the previous update along with a few mod updates and removal of mods that have been hidden. **SHOULD** be save compatible.
+**Notes** : This update is mostly bugfixes that weren't caught in the previous update along with a few mod updates and removal of mods that have been hidden. **SHOULD** be save compatible. **You will need to re-copy game folder files due to the SKSE update.**
 
 **Added** :
 
