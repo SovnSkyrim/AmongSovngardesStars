@@ -24,7 +24,7 @@
 - [Creating your Character](#creating-your-character)
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
-  - [Tweaking Performance](#tweaking-performance)
+  - [Performance stuff](#Performance-stuff)
     - [Tweaking the ENB](#tweaking-the-enb)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
 - [Removing the Modlist](#removing-the-modlist)
@@ -540,13 +540,7 @@ Simply step up to the statue of mara and choose a start.
 ### Ultrawide Options
 If you have an ultrawide monitor (21:9 or 32:9), the UI will be off. You just need to enable "Dear Diary for (screen resolution)" under the Separator "Activate this if you have a widescreen monitor" in MO2. [Those](https://prnt.sc/udw0qv)
 
-### Tweaking the Game Settings
-
-I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
-
-- `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
-- `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
-- `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
+### Performance stuff
 
 If you have less than 6GB of VRAM, there is an alternative DynDOLOD and TexGEN output, without 3D tree lods, available in the discord. Follow the instructions to swap to the alternate.
 
