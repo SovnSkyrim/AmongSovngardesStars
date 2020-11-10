@@ -264,7 +264,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Simple Action: Hidden
 - Configuration → Wheel Layout :
   - Current Wheel : 2
-  - Set it up however you like, but it's recommended to have Pray/Call Horse.
+  - Set it up however you like, but it's recommended to have Pray.
 
 #### Expanded Towns
 - Settings → Fortification Wall :
