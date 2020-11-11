@@ -1,3 +1,19 @@
+## 0.5.4 : More Fixes
+
+**Released at**: `unreleased`
+
+**Notes**: Very minor update to fix the revisited series merge and navmesh issues with Moon & Star along with a few mod updates. **SHOULD** be save compatible.
+
+**Updated** :
+- Seranaholic
+- Valerica
+- Skyrim Horses Renewal
+- Soulmancer Music Merge
+
+**Fixes** :
+- Fixed the revisited series merge. This should now fix the lighting issues and holes in Bleak Falls Barrow.
+- Fixed Navmesh at Little Vivec for Moon & Star (Thanks to Disciple for fixing this).
+
 ## 0.5.3 : More Fixes + Updates
 
 **Released at**: `31/10/2020`
