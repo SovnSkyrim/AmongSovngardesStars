@@ -1,4 +1,4 @@
-## 0.5.4 : More Fixes
+## 0.5.4 : More Fixes + Updates²
 
 **Released at**: `12/11/2020`
 
