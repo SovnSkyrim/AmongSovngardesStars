@@ -1,6 +1,6 @@
 ## 0.5.4 : More Fixes
 
-**Released at**: `unreleased`
+**Released at**: `12/11/2020`
 
 **Notes**: Very minor update to fix the revisited series merge and navmesh issues with Moon & Star along with a few mod updates. **SHOULD** be save compatible.
 
