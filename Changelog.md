@@ -9,6 +9,7 @@
 - Valerica
 - Skyrim Horses Renewal
 - Soulmancer Music Merge
+- Lawbringer
 
 **Fixes** :
 - Fixed the revisited series merge. This should now fix the lighting issues and holes in Bleak Falls Barrow.
