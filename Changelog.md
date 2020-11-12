@@ -2,7 +2,7 @@
 
 **Released at**: `soon`
 
-**Notes**: Tiny update to patch in the new version of Serana Dialogue Add-On. This update is only save compatible if you have **NOT** started Dawnguard. If you have started Dawnguard then it is **NOT** save compatible.
+**Notes**: Tiny update to patch in the new version of Serana Dialogue Add-On. This update is only save compatible if you have **NOT** started Dawnguard. If you have started Dawnguard then it you can try to update, but Serana should behave awkwardly.
 
 **Added** :
 - SDA NFF Patch
