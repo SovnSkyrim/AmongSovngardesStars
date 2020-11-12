@@ -1,6 +1,6 @@
 ## 0.5.4.1 : Serana now says more
 
-**Released at**: `soon`
+**Released at**: `12/11/2020`
 
 **Notes**: Tiny update to patch in the new version of Serana Dialogue Add-On. This update is only save compatible if you have **NOT** started Dawnguard. If you have started Dawnguard then you can try to update, but Serana may behave awkwardly.
 
