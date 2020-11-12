@@ -1,3 +1,20 @@
+## 0.5.4.1 : Serana now says more
+
+**Released at**: `soon`
+
+**Notes**: Tiny update to patch in the new version of Serana Dialogue Add-On. This update is only save compatible if you have **NOT** started Dawnguard. If you have started Dawnguard then it is **NOT** save compatible.
+
+**Added** :
+- SDA NFF Patch
+- SDA Wintersun CACO Patch
+
+**Updated** :
+- Serana Dialogue Add-On
+
+**Fixes** :
+- Integration patch for SDA made by Sovn.
+- Fixed the SkyHud profile issue.
+
 ## 0.5.4 : More Fixes + Updates²
 
 **Released at**: `12/11/2020`
