@@ -14,6 +14,7 @@
 **Fixes** :
 - Integration patch for SDA made by Sovn.
 - Fixed the SkyHud profile issue.
+- Actually updated version number at top of MO2.
 
 ## 0.5.4 : More Fixes + Updates²
 
