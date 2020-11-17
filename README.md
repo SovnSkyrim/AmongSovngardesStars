@@ -548,8 +548,8 @@ If you have less than 6GB of VRAM, there is an alternative DynDOLOD and TexGEN o
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
-## How do I use High Poly Head?????
-Under face part in Racemenu.
+## How do I use High Poly Head????? Why does my hair clips throught my fucking skull?????
+Under face part in Racemenu, select the high poly head part.
 
 ## My character is blocked in the air when trying to dodge!
 
