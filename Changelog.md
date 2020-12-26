@@ -7,9 +7,7 @@
 **Updated** :
 - Alternate Start - Live Another Life
 - Bleak Falls Barrow Revisited
-- CCOR Merged Consistency Patch
 - Cutting Room Floor
-- DynDOLOD
 - Soulmancer's Merged Soundtrack
 - Soulmancer's Soundtrack - Bruma OST Add On
 - Unofficial Skyrim Special Edition Patch
