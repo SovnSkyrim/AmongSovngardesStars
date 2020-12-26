@@ -1,3 +1,19 @@
+## 0.5.4.2 : Small Update
+
+**Released at** : `soon`
+
+**Notes**: Tiny update to get the list back online after a mod was hidden and a few updates. **SHOULD** be save compatible.
+
+**Updated** :
+- Alternate Start - Live Another Life
+- Bleak Falls Barrow Revisited
+- CCOR Merged Consistency Patch
+- Cutting Room Floor
+- DynDOLOD
+- Soulmancer's Merged Soundtrack
+- Soulmancer's Soundtrack - Bruma OST Add On
+- Unofficial Skyrim Special Edition Patch
+
 ## 0.5.4.1 : Serana now says more
 
 **Released at**: `12/11/2020`
