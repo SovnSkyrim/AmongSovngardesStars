@@ -1,3 +1,15 @@
+## 0.5.4.3 : A tiny update
+
+**Released at** : `soon`
+
+**Notes** : Tiny update to get the list back online after a mod was hidden and a few minor updates. **SHOULD** be save compatible. You do not need to update if you already have a game in progress.
+
+**Updated** :
+- Mindrot's Rest
+- SkyRem CORI
+- Soulmancer's Merged Soundtrack
+- Soulmancer's Merged Soundtrack - Bruma OST Add On
+
 ## 0.5.4.2 : Small Update
 
 **Released at** : `26/12/2020`
