@@ -2,7 +2,7 @@
 
 **Date** : `01/02/2021`
 
-**Notes* : Thanks for playing!
+**Notes** : Thanks for playing!
 
 ## 0.5.4.3 : A tiny update
 
