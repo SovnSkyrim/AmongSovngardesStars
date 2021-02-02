@@ -1,6 +1,6 @@
 ## 0.5.4.3 : A tiny update
 
-**Released at** : `soon`
+**Released at** : `28/12/2020`
 
 **Notes** : Tiny update to get the list back online after a mod was hidden and a few minor updates. **SHOULD** be save compatible. You do not need to update if you already have a game in progress.
 
