@@ -1,5 +1,7 @@
 # Among Sovngarde's Stars
 
+# THIS LIST IS NOW DISCONTINUED. ANY FILE THAT CLAIMS TO MAKE IT DOWNLOADABLE IS A FALSE PROMISE OR PIRACY. THIS IS STILL OPEN ONLY FOR NOSTALGIA PURPOSES.
+
 - [Among Sovngarde's Stars](#Among-Sovngardes-Stars)
 - [Preamble](#preamble)
 - [Installation](#installation)
