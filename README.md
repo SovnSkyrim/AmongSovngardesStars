@@ -559,6 +559,9 @@ Under face part in Racemenu, select the high poly head part.
 
 Simply press G (or your swap dodge key) two times to reset it.
 
+## My Legacy of the Dragonborn (LOTD) Quests are not starting up even though I have the number of Relics the Wiki says I need!!
+Due to having 4000 displays possible, we use [Quest and Reward Delay for LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/44923). Use their new chart to know which number of relic you need to start the quests.
+
 ## I'm using a gamepad, please help me!
 Go to the Discord, we have a gamepad guide for you.
 
